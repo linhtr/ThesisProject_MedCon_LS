@@ -1,0 +1,653 @@
+origin;sent_id;sentence;source_term;CHV_selection;CHV_substitution;sim_scores
+wiki_fully;11;Unable to function, the muscles weaken and exhibit atrophy.;atrophy;['atrophy', 'atrophic'];atrophy;100.0
+wiki_fully;59;Adenocarcinoma arises from glandular cells that are present at the junction of the esophagus and stomach.;Adenocarcinoma;['adenocarcinoma', 'hurthle cell carcinoma', 'basal cell adenocarcinoma', 'tubular carcinoma', 'cribriform carcinoma'];adenocarcinoma;100.0
+wiki_fully;72;A hemophiliac does not bleed more intensely than a person without it, but can bleed for a much longer time.;hemophiliac;['hemophilia'];hemophilia;95.0
+wiki_fully;78;Based on evidence of osteoarthritis in the lumbar vertebrae, eburnation, and severe wear on the teeth with pulp exposure, it seems likely that LM3 was quite old (around 50 years old) when he died.;osteoarthritis;['osteoarthritis', 'kaschin-beck disease'];osteoarthritis;100.0
+wiki_fully;101;In 1914 Adams's father died of a stroke.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;110;Sunderland, a main trading port at the time, was the first British town to be struck with the 'Indian cholera' epidemic.;cholera;['cholera'];cholera;100.0
+wiki_fully;111;"Local government was divided between the three parishes (Holy Trinity Church, Sunderland, St. Michael's, Bishopwearmouth, and St. Peter's, Monkwearmouth) and when cholera broke out in 1831, the ""select vestrymen"", as the church councilmen were called, were unable to cope with the epidemic.";cholera;['cholera'];cholera;100.0
+wiki_fully;112;Once at Richmond, Madison began drafting the Report, though he was delayed by a weeklong battle with dysentery.;dysentery;['dysentery', 'infectious diarrhea'];dysentery;100.0
+wiki_fully;128;"By 1915, gangrene had set in and her entire right leg was amputated; she was required to use a wheelchair for several months.";gangrene;['gangrene'];gangrene;100.0
+wiki_fully;140;The term epidemiology is now widely applied to cover the description and causation of not only epidemic disease, but of disease in general, and even many non-disease health-related conditions, such as high blood pressure and obesity.;obesity;['obesity'];obesity;100.0
+wiki_fully;145;Dr. John Snow is famous for his investigations into the causes of the 19th century cholera epidemics, and is also known as the father of (modern) epidemiology.;cholera;['cholera'];cholera;100.0
+wiki_fully;169;Neurologist Oliver Sacks states that chimpanzees and other animals show no similar appreciation of rhythm yet posits that human affinity for rhythm is fundamental, so that a person's sense of rhythm can not be lost (e.g. by stroke).;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;181;In January 1925 doctors realized that a potentially deadly diphtheria epidemic was poised to sweep through Nome's young people.;diphtheria;['diphtheria'];diphtheria;100.0
+wiki_fully;182;Sullivan, still believing his ailment to be yet another complication from a long-standing battle with ulcers, died five weeks later, on October 13, 1974, at New York's Lenox Hill Hospital.;ulcers;['ulcer'];ulcer;100.0
+wiki_fully;228;This included a large medical bill for treatment of their gonorrhea and $ 21,000 for the accidental destruction of his uninsured car, which they borrowed.;gonorrhea;['gonorrhea', 'gonococcal'];gonorrhea;100.0
+wiki_fully;263;In 1980, Shines' music was brought to a standstill when he suffered a stroke.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;264;Élisabeth Charlotte died of a stroke, on 23 December 1744, one week after her daughter-in-law and grandchild, at the age of sixty-eight.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;275;A significant event in the history of epidemiology and public health was Dr. John Snow's study of an 1854 outbreak of cholera in Soho.;cholera;['cholera'];cholera;100.0
+wiki_fully;276;Science writer Steven Johnson describes the 2006 appearance of places related to the Broad Street Pump cholera outbreak: A replica of the pump, with a memorial plaque and without a handle (to signify John Snow's action to halt the outbreak) was erected near the location of the original pump.;cholera;['cholera'];cholera;100.0
+wiki_fully;283;Misora died on June 24, 1989 from pneumonia at the age of 52, at a hospital in Tokyo.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;284;Although lying with serious pneumonia, the prison doctor refused him the necessary medication claiming he was not worthy of it.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;290;The family was apprehended in 1944 and Anne Frank died of typhus in the Bergen-Belsen concentration camp.;typhus;['typhus', 'typhoid fever', 'epidemic typhus'];typhus;100.0
+wiki_fully;299;"Hypertrophy (from Greek ὑπέρ ""excess"" + τροφή ""nourishment"") is the increase in the volume of an organ or tissue due to the enlargement of its component cells.";Hypertrophy;['enlargement'];enlargement;24.0
+wiki_fully;306;He compared the effects of various acidic substances, ranging from vinegar to cider, on groups of afflicted sailors, and found the group who were given oranges and lemons had largely recovered from scurvy after six days.;scurvy;['scurvy'];scurvy;100.0
+wiki_fully;338;Surgical subspecialties include neurosurgery, ophthalmology, orthopedic surgery, (ENT) and facial plastic surgery, plastic surgery, thoracic surgery, transplantation, Trauma, urology, and vascular surgery.;Trauma;['trauma', 'injuries wounds', 'injury from an external force', 'physical wound'];trauma;100.0
+wiki_fully;346;Menuhin died in Martin Luther Hospital, Berlin, Germany, from complications of bronchitis.;bronchitis;['bronchitis'];bronchitis;100.0
+wiki_fully;347;In October 1836, after receiving his M.D. and being appointed by the University of Zurich as a lecturer in anatomy, Büchner relocated to Zurich where he spent his final months writing and teaching until his death from typhus at the age of twenty-three.;typhus;['typhus', 'typhoid fever', 'epidemic typhus'];typhus;100.0
+wiki_fully;353;Ebsen died of pneumonia at Torrance Memorial Medical Center in Torrance, California, on July 6, 2003, at the age of 95.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;355;In many cases the structure is of no direct harm, yet all structures require extra energy in terms of development, maintenance, and weight, and are also a risk in terms of disease (e.g., infection, cancer), providing some selective pressure for the removal of parts that do not contribute to an organism's fitness.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_fully;357;Both infants died of diphtheria during the winter of 1886-1887.;diphtheria;['diphtheria'];diphtheria;100.0
+wiki_fully;366;The city suffered from plague outbreaks in 1544, 1589 and 1598.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_fully;368;He died of the plague, the year after his ennoblement on December 13, 1565.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_fully;375;Ricketts retired from the Royal Marines on 1 June 1944 because of ill health and died at his home in Reigate, Surrey, on 15 May 1945, after an operation for cancer.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_fully;383;A study published in the International Journal of Obesity (11 January 2005) also found that the consumption of low-fat yogurt can promote weight loss, relative to a gelatin placebo.;Obesity;['obesity'];obesity;100.0
+wiki_fully;407;Leishmania currently affects 12 million people in 98 countries.;Leishmania;[];;
+wiki_fully;408;"Their primary hosts are vertebrates; Leishmania commonly infects hyraxes, canids, rodents, and humans.";Leishmania;[];;
+wiki_fully;432;There were no advanced facilities for treatment in the village, so he was taken to an elderly woman in a nearby village who was known to cure trachoma boils to provide relief.;trachoma;['trachoma'];trachoma;100.0
+wiki_fully;433;Following a series of small strokes during the last three years of her life, Colbert died in 1996 at her second home in Barbados, where she was employing one housekeeper and two cooks.;strokes;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;446;Further injections eventually led to gangrene.;gangrene;['gangrene'];gangrene;100.0
+wiki_fully;467;Shortly afterward Koch suffered a stroke in 1987 while in office, but was able to continue with his duties.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;472;Both girls caught typhus and Jane nearly died.;typhus;['typhus', 'typhoid fever', 'epidemic typhus'];typhus;100.0
+wiki_fully;483;It was first used to treat malaria in Rome in 1631.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_fully;526;On 22 November 2009 he was admitted to the Pichilemu Hospital, and died on 23 November at 14:00 local time, of pneumonia at the age of 88.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;530;In late 117, while sailing back to Rome, Trajan fell ill and died of a stroke in the city of Selinus.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;531;Juniper berries act as a strong urinary tract disinfectant if consumed, and were used by Navajo people as an herbal remedy for diabetes.;diabetes;['diabetes'];diabetes;100.0
+wiki_fully;559;A cold usually begins with fatigue, a feeling of being chilled, sneezing and a headache, followed in a couple of days by a runny nose and cough.;headache;['headache', 'one-sided migraine', 'orthostatic headache', 'throbbing headache', 'one sided headache'];headache;100.0
+wiki_fully;574;Sleepwalking may last as little as 30 seconds or as long as 30 minutes.;Sleepwalking;['sleepwalking'];sleepwalking;100.0
+wiki_fully;619;Coleridge-Taylor was 37 when he died of pneumonia a few days after collapsing at West Croydon railway station.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;629;At Snow's request, the handle of the pump was removed, and new cholera cases ceased almost at once.;cholera;['cholera'];cholera;100.0
+wiki_fully;630;Further investigation of the area revealed the Broad Street pump was near a cesspit under the home of the outbreak's first cholera victim.;cholera;['cholera'];cholera;100.0
+wiki_fully;631;Though disease had been mapped thematically, Snow's cholera map in 1854 is the best known example of using thematic maps for analysis.;cholera;['cholera'];cholera;100.0
+wiki_fully;632;Starting with an accurate base map of a London neighborhood which included streets and water pump locations, Snow mapped out the incidents of cholera death.;cholera;['cholera'];cholera;100.0
+wiki_fully;642;Hall would eventually succumb to pneumonia, related to his influenza, in a hospital in Seattle, Washington just five days after the Stanley Cup Final series was abandoned.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;648;Anastasia's older sister, Maria, reportedly hemorrhaged in December 1914 during an operation to remove her tonsils, according to her paternal aunt Grand Duchess Olga Alexandrovna of Russia, who was interviewed later in her life.;hemorrhaged;['bleeding'];bleeding;14.0
+wiki_fully;652;Collectively, their work on lepidoptera, and on human blood groups, established the field, and threw light on selection in natural populations where its role had been once doubted.;lepidoptera;[];;
+wiki_fully;653;He was also known for his unusual form of stroke.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;657;"However after a long, difficult negotiation, which he reported in the Chess Player's Chronicle, Staunton went to Paris intending to start their third match in October 1844, but he caught pneumonia while traveling and almost died; the match was postponed and never took place.";pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;665;"It has often been reported that in the advanced stages of his arthritis, he painted by having a brush strapped to his paralyzed fingers, but this is erroneous; Renoir remained able to grasp a brush, although he required an assistant to place it in his hand.";arthritis;['arthritis', 'polyarthritis', 'polyarticular arthritis'];arthritis;100.0
+wiki_fully;667;Renoir painted during the last twenty years of his life even when he was wheelchair-bound and arthritis severely limited his movement.;arthritis;['arthritis', 'polyarthritis', 'polyarticular arthritis'];arthritis;100.0
+wiki_fully;673;"In 1975 Robert Ader and Nicholas Cohen at the University of Rochester advanced PNI with their demonstration of classic conditioning of immune function, and coined the term ""psychoneuroimmunology"".";PNI;[];;
+wiki_fully;680;He traveled to Spain in 1826, but returned to Bordeaux, where he died of a stroke in 1828, at the age of 82.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;708;However, in certain conditions, some species are thought to be capable of causing disease by producing infection or increasing cancer risk for the host.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_fully;725;The heterozygote has a permanent advantage (a higher fitness) wherever malaria exists.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_fully;740;Within a brief period, he suffered a mild stroke, his daughter Adèle's internment in an insane asylum, and the death of his two sons.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;742;Victor Hugo's death from pneumonia on 22 May 1885, at the age of 83, generated intense national mourning.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;747;Lipscomb resided in Cambridge, Massachusetts until his death in 2011 from pneumonia.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;756;Held in Seattle, the two teams were tied in the best-of-five series when it was canceled due to the Spanish flu epidemic, the first time the Stanley Cup was not awarded.;flu;['flu'];flu;100.0
+wiki_fully;786;In thalassemia, the disorder is caused by the weakening and destruction of red blood cells.;thalassemia;['thalassemia', 'delta-beta thalassemia'];thalassemia;100.0
+wiki_fully;808;The hallmark of this condition is a rapid onset of partial or complete paralysis that often occurs overnight.;paralysis;"['paralysis', ""todd's paralysis""]";paralysis;100.0
+wiki_fully;817;Abnormal splicing variants are also thought to contribute to the development of cancer, although such aberrant splicoforms are, under normal conditions, usually safeguarded and eliminated by a posttranscriptional quality control mechanism.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_fully;859;Prior to his plague research, Borat worked as an ice maker, gypsy catcher, animal puller (one who produces semen from animals) and computer maintenance engineer (specifically, removing dead birds which had nested in the vents in the computer's casing).;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_fully;865;While recovering from a childhood bout of appendicitis, Punnett became acquainted with Jardine's Naturalist's Library and developed an interest in natural history.;appendicitis;['appendicitis'];appendicitis;100.0
+wiki_fully;897;Patience was to die of a fever In Plymouth in 1634 as the first wife of colony governor Thomas Prence.;fever;['fever', 'hyperthermic', 'feverish', 'fever symptoms'];fever;100.0
+wiki_fully;905;In the 1970s, antibiotic treatments and vaccines for leprosy were developed using armadillos, then given to humans.;leprosy;['leprosy'];leprosy;100.0
+wiki_fully;914;Her third ex-husband Anthony Franciosa had a stroke on the day she died and, himself, died five days later.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;917;The main symptom of jaundice is a yellow discoloration of the white part of the eyes (sclera) and of the skin.;jaundice;['jaundice'];jaundice;100.0
+wiki_fully;936;Then we see her deliberately contract cholera and be transferred to hospital.;cholera;['cholera'];cholera;100.0
+wiki_fully;946;Coombs suffered a stroke on September 10, 2001, and died on September 18, 2001 at the age of 73.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;948;If the stressful conditions persist, the polyp eventually dies.;polyp;['polyp'];polyp;100.0
+wiki_fully;950;"Further variation exists; thus, specific influenza strain isolates are identified by a standard nomenclature specifying virus type, geographical location where first isolated, sequential number of isolation, year of isolation, and HA and NA subtype.";influenza;['flu'];flu;50.0
+wiki_fully;955;Examples of the nomenclature are: The type A viruses are the most virulent human pathogens among the three influenza types and cause the most severe disease.;influenza;['flu'];flu;50.0
+wiki_fully;958;This type of influenza mutates at a rate 2-3 times lower than type A and consequently is less genetically diverse, with only one influenza B serotype.;influenza;['flu'];flu;50.0
+wiki_fully;989;By then, he had begun to exhibit the effects of diabetes, and to lose interest in the prospect of playing or managing professional baseball.;diabetes;['diabetes'];diabetes;100.0
+wiki_fully;990;Brutus is said to have been wounded in the hand and in the legs.;Brutus;[];;
+wiki_fully;992;Ives died of a stroke in 1954 in New York City.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;993;After continuing health problems, including diabetes, in 1930 he retired from his insurance business, which gave him more time to devote to his musical work, but he was unable to write any new music.;diabetes;['diabetes'];diabetes;100.0
+wiki_fully;997;The pair raised # 64,000 for charity with half of that sum going to the British Olympic Association and a quarter of the sum going to Asthma UK.;Asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_fully;998;He died of pneumonia and was buried at the Saint-Pierre Cemetery in his hometown of Aix-en-Provence.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;1000;Furthermore, low acid (high pH) levels in the stomach are linked with bacterial overgrowth (as the stomach does not kill microbes normally present in food), which can manifest as diarrhea or decreased absorption of nutrients or vitamins.;diarrhea;['diarrhea', 'diarrhea symptoms'];diarrhea;100.0
+wiki_fully;1001;As a medical condition, it is also called gymnophobia.;gymnophobia;[];;
+wiki_fully;1010;The Plague of 1771 was the last massive outbreak of plague in central Russia, claiming up to 100,000 lives in Moscow alone.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_fully;1024;The canes were also used to keep people away, to remove clothing from plague victims without having to touch them, and to take a patient's pulse.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_fully;1027;The Genevese physician Jean-Jacques Manget, in his 1721 work Treatise on the Plague written just after the Great Plague of Marseille, describes the costume worn by plague doctors at Nijmegen in 1636-1637.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_fully;1029;This costume was also worn by plague doctors during the Plague of 1656, which killed 145,000 people in Rome and 300,000 in Naples.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_fully;1030;This popular seventeenth century poem describes the plague doctor's costume.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_fully;1031;"Doctors believed the herbs would counter the ""evil"" smells of the plague and prevent them from becoming infected.";plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_fully;1032;Some modern writers have described fourteenth-century plague doctors as wearing bird-like masks.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_fully;1037;During his career, Hench was one of the founding members of the American Rheumatism Association, and served as its president in 1940 and 1941.;Rheumatism;['rheumatism', 'collagen disease'];rheumatism;100.0
+wiki_fully;1045;While the plague raged in Venice, Titian died of a fever on 27 August 1576.;fever;['fever', 'hyperthermic', 'feverish', 'fever symptoms'];fever;100.0
+wiki_fully;1058;On July 30, 1980, Richard suffered a stroke and collapsed while playing a game of catch before an Astros game, and was rushed to the hospital for emergency surgery to remove a life-threatening blood clot in his neck.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;1059;However in April 1940 he suffered a massive stroke.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;1077;"A spontaneous abortion can also be caused by accidental trauma; intentional trauma or stress to cause miscarriage is considered induced abortion or feticide.";miscarriage;['miscarriage'];miscarriage;100.0
+wiki_fully;1093;The bone marrow of a normal healthy adult produces more than 100 billion neutrophils per day, and more than 10 times that many per day during acute inflammation.;inflammation;['inflammation'];inflammation;100.0
+wiki_fully;1104;Inflammation is stimulated by chemical factors released by injured cells and serves to establish a physical barrier against the spread of infection, and to promote healing of any damaged tissue following the clearance of pathogens.;Inflammation;['inflammation'];inflammation;100.0
+wiki_fully;1110;Although his time there was marked by variable health from asthma attacks, he nevertheless became an intellectual hero of the Whigs.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_fully;1152;Thaxter's career stalled after an attack of polio in 1952.;polio;['polio', 'polioencephalitis'];polio;100.0
+wiki_fully;1158;He died intestate in Sydney on 21 July 1868 of pneumonia, and was accorded a State Funeral.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;1167;In 1831, an outbreak of cholera devastated the region and eliminated most if not all of the Mandaean religious authorities.;cholera;['cholera'];cholera;100.0
+wiki_fully;1174;Gustav Stresemann died of a stroke in October 1929 at the age of 51.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;1194;Prevention of human-to-human transmission Influenza spreads between humans when infected people cough or sneeze, then other people breathe in the virus or touch something with the virus on it and then touch their own face.;Influenza;['flu'];flu;50.0
+wiki_fully;1200;She died from the 1918 flu pandemic.;flu;['flu'];flu;100.0
+wiki_fully;1201;After serving in the Royal Flying Corps during the First World War, he maintained his reputation when cricket resumed in 1919, but his career was threatened by appendicitis, which caused him to miss most of the 1921 season.;appendicitis;['appendicitis'];appendicitis;100.0
+wiki_fully;1207;Chlamydia can be transmitted during vaginal, anal, or oral sex, and can be passed from an infected mother to her baby during childbirth.;Chlamydia;[];;
+wiki_fully;1222;While other treatments for croup have been studied, none have sufficient evidence to support their use.;croup;['croup'];croup;100.0
+wiki_fully;1229;In 1742 Maria Anna took over power as regent after her husband suffered a stroke, which left him partially paralyzed.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;1231;Vector control refers to methods used to decrease malaria by reducing the levels of transmission by mosquitoes.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_fully;1243;In the case of double-fisting, pleasure is derived more from the stretching of the anus or vagina than from the thrusting (in-and-out) movement of hands.;double-fisting;[];;
+wiki_fully;1257;It is one of the rarest forms of synesthesia.;synesthesia;['synesthesia'];synesthesia;100.0
+wiki_fully;1286;If the body is unable to maintain a normal temperature and it increases significantly above normal, a condition known as hyperthermia occurs.;hyperthermia;['fever', 'hyperthermic', 'feverish'];fever;35.0
+wiki_fully;1304;"In his 1995 novel Blindness, an entire unnamed country is stricken with a mysterious plague of ""white blindness"".";Blindness;['blindness', 'blind vision', 'amaurosis', 'complete blindness', 'temporary vision loss'];blindness;100.0
+wiki_fully;1330;The primary bowel resection is the standard procedure for diverticulitis.;diverticulitis;['diverticulitis'];diverticulitis;100.0
+wiki_fully;1338;Over the following summers, Martha's Vineyard was identified as the only place in the world where documented cases of tularemia resulted from lawn mowing.;tularemia;['tularemia'];tularemia;100.0
+wiki_fully;1339;An outbreak of tularemia occurred in Kosovo in 1999-2000.;tularemia;['tularemia'];tularemia;100.0
+wiki_fully;1364;When this type of cartilage starts to wear out (a process called arthritis), the joint becomes painful and stiff.;arthritis;['arthritis', 'polyarthritis', 'polyarticular arthritis'];arthritis;100.0
+wiki_fully;1404;Their first child, Samuel Orchart, was born in May 1857 but died of croup in August of that year.;croup;['croup'];croup;100.0
+wiki_fully;1429;"In the U.K., psychiatrists Paolo Fusar-Poli, Oliver Howes, Lucia Valmaggia and Philip McGuire of the Institute of Psychiatry in London described in the British Journal of Psychiatry what they referred to as the ""Truman Syndrome"": The authors suggest that the ""Truman explanation"" is a result of the patients' search for meaning in their perception that the ordinary world has changed in some significant but inexplicable way.";Psychiatry;[];;
+wiki_fully;1483;Infants may feed poorly, vomit, sleep more, or show signs of jaundice.;jaundice;['jaundice'];jaundice;100.0
+wiki_fully;1485;If the urine contains significant bacteria but there are no symptoms, the condition is known as asymptomatic bacteriuria.;bacteriuria;['bacteriuria'];bacteriuria;100.0
+wiki_fully;1488;Other risk factors include diabetes, being uncircumcised, and having a large prostate.;diabetes;['diabetes'];diabetes;100.0
+wiki_fully;1500;HCV is not spread through casual contact, such as hugging, kissing, or sharing eating or cooking utensils.;HCV;[];;
+wiki_fully;1507;"There is no evidence that breast-feeding spreads HCV; however, to be cautious, an infected mother is advised to avoid breastfeeding if her nipples are cracked and bleeding, or her viral loads are high.";HCV;[];;
+wiki_fully;1513;He was elected president in 1840, and died of pneumonia in April 1841, a month after taking office.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;1516;President Wilson suffered a severe stroke in October 1919.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;1527;Henry's obesity hastened his death at the age of 55, which occurred on 28 January 1547 in the Palace of Whitehall, on what would have been his father's 90th birthday.;Henry;[];;
+wiki_fully;1553;Sendak died on May 8, 2012, in Danbury, Connecticut, at Danbury Hospital, from complications of a stroke.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;1564;The posterior pituitary (or neurohypophysis) is a lobe of the gland that is functionally connected to the hypothalamus by the median eminence via a small tube called the pituitary stalk (also called the infundibular stalk or the infundibulum).;neurohypophysis;[];;
+wiki_fully;1566;The main story of the episode's first act sees Bart get appendicitis from eating a jagged metal Krusty-O.;appendicitis;['appendicitis'];appendicitis;100.0
+wiki_fully;1567;"He stated that ""you ca n't get"" appendicitis from eating a piece of metal, but the writers decided to do it anyway.";appendicitis;['appendicitis'];appendicitis;100.0
+wiki_fully;1568;Bart collapses on the medical room floor, and is taken to Springfield General Hospital where he undergoes surgery from Dr. Hibbert and Dr. Nick, as it emerges he has appendicitis.;appendicitis;['appendicitis'];appendicitis;100.0
+wiki_fully;1571;Radcliffe is an asthma sufferer who has campaigned against the use of drugs in sport.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_fully;1586;They may also include leukoaraiosis (changes in the white matter of the brain): the white matter is more susceptible to vascular blockage due to reduced amount of blood vessels as compared to the cerebral cortex.;leukoaraiosis;[];;
+wiki_fully;1587;In a broad study in 1998, more than 11 million people were estimated to have experienced a stroke in the United States.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;1597;Fortunately, he was able to beat the gangrene before that became necessary, and was awarded a Purple Heart.;gangrene;['gangrene'];gangrene;100.0
+wiki_fully;1603;The Stanley Cup was not awarded in 1919 because of a Spanish flu epidemic, and in 2005, as a consequence of the NHL lockout.;flu;['flu'];flu;100.0
+wiki_fully;1619;Obesity increases the risk of many physical and mental conditions.;Obesity;['obesity'];obesity;100.0
+wiki_fully;1620;Some research shows that obese people are less likely to be hired for a job and are less likely to be promoted.;obese;['obesity'];obesity;100.0
+wiki_fully;1621;People are considered obese when their body mass index (BMI), a measurement obtained by dividing a person's weight by the square of the person's height, exceeds 30 kg/m2.;obese;['obesity'];obesity;100.0
+wiki_fully;1625;He almost died of malnutrition.;malnutrition;['malnutrition', 'undernutrition'];malnutrition;100.0
+wiki_fully;1629;He remained in a coma for three months.;coma;['coma'];coma;100.0
+wiki_fully;1630;After being in a coma for three months, Argov regained consciousness, and was returned to Israel.;coma;['coma'];coma;100.0
+wiki_fully;1643;The major complications include hemorrhage (1-2%) and infection (3-5%).;hemorrhage;['bleeding'];bleeding;14.0
+wiki_fully;1652;It seems likely that the real cause of Marie Louise's death was appendicitis.;appendicitis;['appendicitis'];appendicitis;100.0
+wiki_fully;1658;Gajdusek's best-known work focused on kuru.;kuru;['kuru'];kuru;100.0
+wiki_fully;1660;Further research on the scrapie agent by Stanley Prusiner and others led to the identification of endogenous proteins called prions as the cause of these diseases.;scrapie;['scrapie'];scrapie;100.0
+wiki_fully;1661;He lived among the Fore, studied their language and culture, and performed autopsies on kuru victims.;kuru;['kuru'];kuru;100.0
+wiki_fully;1674;Returning to work, Fine and the other two Stooges were working on a new TV series entitled Kook's Tour in January 1970 when Larry suffered a debilitating stroke that paralyzed the left side of his body.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;1676;He died of pneumonia in Belleville, only days short of his 94th birthday, and was buried in the Belleville Cemetery.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;1679;"He became the second victim of the cholera epidemic of 1831 and was buried in an unmarked ""pauper's"" grave.";cholera;['cholera'];cholera;100.0
+wiki_fully;1680;Alba has also had asthma since she was a child.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_fully;1688;People with bronchiectasis may have bad breath indicative of active infection.;bronchiectasis;['bronchiectasis'];bronchiectasis;100.0
+wiki_fully;1691;Except for one press appearance on May 23, 2011, Camping largely avoided press interviews after May 21, particularly after he suffered a stroke in June 2011.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;1692;In October 2011, he retired from active broadcasting following a stroke, but still maintained a role at Family Radio.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;1699;Both her parents died, her mother died at age 54 from complications after strokes and her father died at age 52 several years later.;strokes;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;1701;On June 12, 1994, Calloway suffered a severe stroke.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;1722;The American Board of Allergy, Asthma, and Immunology is a conjoint board between internal medicine and pediatrics.;Asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_fully;1724;Within three months of his marriage, Dürer left for Italy, alone, perhaps stimulated by an outbreak of plague in Nuremberg.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_fully;1727;"The heterozygote has a permanent advantage (a higher fitness) so long as malaria exists; and it has existed as a human parasite for a long time.";malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_fully;1751;It is thought that soon after arrival she contracted syphilis from the Elector, which explains why Anna Maria Luisa and Johann Wilhelm failed to produce any children.;syphilis;['syphilis'];syphilis;100.0
+wiki_fully;1754;NK cells provide rapid responses to virally infected cells and respond to tumor formation, acting at around 3 days after infection.;tumor;['tumor'];tumor;100.0
+wiki_fully;1756;He died at the Castle of Moncalieri having suffered an attack of apoplexy.;apoplexy;['stroke', 'acute stroke'];stroke;29.0
+wiki_fully;1780;It was the first time since 1919 when a Spanish flu pandemic canceled the playoffs that the Stanley Cup was not awarded.;flu;['flu'];flu;100.0
+wiki_fully;1785;She was on medication for epilepsy and had an abnormally large heart.;epilepsy;['epilepsy', 'aura'];epilepsy;100.0
+wiki_fully;1790;Risk factors include: poverty, malnutrition, deforestation and urbanization.;malnutrition;['malnutrition', 'undernutrition'];malnutrition;100.0
+wiki_fully;1792;The treatment needed is determined by where the disease is acquired, the species of Leishmania and the type of infection.;Leishmania;[];;
+wiki_fully;1793;Amastigotes multiply in infected cells and affect different tissues, depending in part on which Leishmania species is involved (4).;Leishmania;[];;
+wiki_fully;1796;Infections in humans are caused by more than 20 species of Leishmania.;Leishmania;[];;
+wiki_fully;1797;Which can transmit the infection Leishmania.;Leishmania;[];;
+wiki_fully;1806;Anne Frank and her sister, Margot Frank, were eventually transferred to the Bergen-Belsen concentration camp, where they died of typhus in March 1945.;typhus;['typhus', 'typhoid fever', 'epidemic typhus'];typhus;100.0
+wiki_fully;1811;Syphilis can not be contracted through toilet seats, daily activities, hot tubs, or sharing eating utensils or clothing.;Syphilis;['syphilis'];syphilis;100.0
+wiki_fully;1816;There may be a symmetrical, reddish-pink, non-itchy rash on the trunk and extremities, including the palms and soles.;rash;['rash'];rash;100.0
+wiki_fully;1819;Early latent syphilis may have a relapse of symptoms.;syphilis;['syphilis'];syphilis;100.0
+wiki_fully;1825;Approximately 30 to 60% of those exposed to primary or secondary syphilis will get the disease.;syphilis;['syphilis'];syphilis;100.0
+wiki_fully;1826;Neurosyphilis refers to an infection involving the central nervous system.;Neurosyphilis;['neurosyphilis', 'general paresis'];neurosyphilis;100.0
+wiki_fully;1827;"Syphilis is transmitted primarily by sexual contact or during pregnancy from a mother to her fetus; the spirochaete is able to pass through intact mucous membranes or compromised skin.";Syphilis;['syphilis'];syphilis;100.0
+wiki_fully;1829;The United Kingdom uses a cut-off of two years for early and late latent syphilis.;syphilis;['syphilis'];syphilis;100.0
+wiki_fully;1830;The signs and symptoms of syphilis vary depending in which of the four stages it presents (primary, secondary, latent, and tertiary).;syphilis;['syphilis'];syphilis;100.0
+wiki_fully;1834;The cause of death was not reported initially, but it is mentioned that Baraka had a long struggle with diabetes.;diabetes;['diabetes'];diabetes;100.0
+wiki_fully;1846;In 1995, at the age of nineteen, Perales was diagnosed with neuropathy and lost the use of her legs within three months.;neuropathy;['neuropathy'];neuropathy;100.0
+wiki_fully;1857;For instance, cancer is responsible for many deaths but is not considered a pandemic because the disease is not infectious or contagious.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_fully;1864;The oldest, Christian, died in a boating accident in 1934, and another, Harald, died from childhood meningitis.;meningitis;['meningitis', 'meningitis/encephalitis', 'pachymeningitis'];meningitis;100.0
+wiki_fully;1884;"The exact cause of sarcopenia is unknown, but it may be due to a combination of the gradual failure in the ""satellite cells"" which help to regenerate skeletal muscle fibers, and a decrease in sensitivity to or the availability of critical secreted growth factors which are necessary to maintain muscle mass and satellite cell survival.";sarcopenia;['sarcopenia'];sarcopenia;100.0
+wiki_fully;1895;The event that spurred him into writing was the death by polio of 18-year-old Manon Gropius, the daughter of Alma Mahler (once Gustav Mahler's wife) and Walter Gropius.;polio;['polio', 'polioencephalitis'];polio;100.0
+wiki_fully;1904;Palliative care is normally offered to terminally ill patients, regardless of their overall disease management style, if it seems likely to help manage symptoms such as pain and improve quality of life.;pain;['pain', 'burning pain', 'ache', 'radiating pain'];pain;100.0
+wiki_fully;1910;This outbreak of plague also spread north into Tyrol, an alpine region of western Austria and northern Italy.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_fully;1917;The Body Volume Index (BVI) is a new measurement for obesity, proposed as an alternative to the Body Mass Index (BMI).;obesity;['obesity'];obesity;100.0
+wiki_fully;1920;However, both the white blood cells and ESR may be elevated due to gout in the absence of infection.;gout;['gout'];gout;100.0
+wiki_fully;1924;Diuretics have been associated with attacks of gout.;gout;['gout'];gout;100.0
+wiki_fully;1928;"Gout was historically known as ""the disease of kings"" or ""rich man's disease.""";Gout;['gout'];gout;100.0
+wiki_fully;1930;Gout can present in a number of ways, although the most usual is a recurrent attack of acute inflammatory arthritis (a red, tender, hot, swollen joint).;Gout;['gout'];gout;100.0
+wiki_fully;1948;Gout frequently occurs in combination with other medical problems.;Gout;['gout'];gout;100.0
+wiki_fully;1949;Gout has become more common in recent decades, affecting about 1-2% of the Western population at some point in their lives.;Gout;['gout'];gout;100.0
+wiki_fully;1953;A body mass index greater than or equal to 35 increases a male's risk of gout threefold.;gout;['gout'];gout;100.0
+wiki_fully;1954;NSAIDs are the usual first-line treatment for gout, and no specific agent is significantly more or less effective than any other.;gout;['gout'];gout;100.0
+wiki_fully;1968;Himmler was responsible for establishing and operating concentration camps and extermination camps in which millions of inmates died of systematic mass gassing, shooting, hanging, inhumane treatment, overwork, malnutrition or medical experiments.;malnutrition;['malnutrition', 'undernutrition'];malnutrition;100.0
+wiki_fully;2004;Warren Tubbs died in 1910 of pneumonia during a blizzard.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;2006;She last lived in Morganton, North Carolina, and died at the age of 93 in Fairfax, Virginia, while visiting a daughter who had suffered a stroke.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;2012;There are two key forms of nystagmus: pathological and physiological, with variations within each type.;nystagmus;['nystagmus'];nystagmus;100.0
+wiki_fully;2013;At the age of eight, she was struck by an automobile in front of the family home, and her legs suffered multiple fractures.;fractures;['fracture'];fracture;100.0
+wiki_fully;2018;Although he seemed to be gradually recovering from his stroke, another one in 1879 ended his career as a violinist for good.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;2028;"The name Vibrio derives from Filippo Pacini who isolated microorganisms he called ""vibrions"" from cholera patients in 1854, because of their motility.";cholera;['cholera'];cholera;100.0
+wiki_fully;2064;Teenage pregnancy is pregnancy in human females under the age of 20 at the time that the pregnancy ends.;Teenage;[];;
+wiki_fully;2073;"Minor bruises may be easily recognized in people with light skin color by characteristic blue or purple appearance (idiomatically described as ""black and blue"") in the days following the injury.";bruises;['bruise', 'contused', 'hematoma'];bruise;100.0
+wiki_fully;2075;However, the entire spectrum of ultraviolet radiation has some of the biological features of ionizing radiation: It does far more damage to many molecules in biological systems than is accounted for by simple heating effects (an example is sunburn).;sunburn;['sunburn'];sunburn;100.0
+wiki_fully;2083;In 1940, at the age of 51, Midgley contracted poliomyelitis, which left him severely disabled.;poliomyelitis;['polio', 'polioencephalitis'];polio;71.0
+wiki_fully;2100;On December 15, 2010, Edwards died of complications of pneumonia at the Saint John's Health Center in Santa Monica, California.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;2102;Bariatrics is the branch of medicine that deals with the causes, prevention, and treatment of obesity.;obesity;['obesity'];obesity;100.0
+wiki_fully;2108;In December 1878, diphtheria swept through the Grand Ducal House of Hesse.;diphtheria;['diphtheria'];diphtheria;100.0
+wiki_fully;2111;The show began running multi-episode stories and Casey developed a romantic relationship with Jane Hancock (Stella Stevens), who had just emerged from a coma after thirteen years.;coma;['coma'];coma;100.0
+wiki_fully;2117;Kennedy died at the age of 82 on September 17, 2006 in her Manhattan home from pneumonia.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_fully;2124;In 1995 at the age of 65, Ho's health began declining which began with a mild stroke.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_fully;2148;After overcoming childhood arthritis, he was selected third overall in the 2003 Quebec Major Junior Hockey League (QMJHL) draft and played for the Val-d'Or Foreurs, Moncton Wildcats, and Cape Breton Screaming Eagles, spending four seasons in the QMJHL.;arthritis;['arthritis', 'polyarthritis', 'polyarticular arthritis'];arthritis;100.0
+wiki_fully;2176;Leukemia can affect people at any age.;Leukemia;['leukemia', 'all types of leukemia'];leukemia;100.0
+wiki_fully;2177;Some leukemia patients do not have high white blood cell counts visible during a regular blood count.;leukemia;['leukemia', 'all types of leukemia'];leukemia;100.0
+wiki_fully;2209;In individuals with Northern European ancestry, as many as 8 percent of men and 0.5 percent of women experience the common form of red-green color blindness.;blindness;['blindness', 'blind vision', 'amaurosis', 'complete blindness', 'temporary vision loss'];blindness;100.0
+wiki_fully;2248;Cave suffered from gout.;gout;['gout'];gout;100.0
+wiki_fully;2263;Her condition is similar to many other conditions, especially progeria.;progeria;['progeria'];progeria;100.0
+wiki_fully;2266;Therefore, interruption of person to person transmission of the virus by vaccination is the critical step in global polio eradication.;polio;['polio', 'polioencephalitis'];polio;100.0
+wiki_partially;29;Throughout the two series, the plot centres on the ambiguity concerning Tyler's predicament of it being unclear to both the audience and the character whether he has died, gone mad or into a coma, or has actually traveled back in time.;coma;['coma'];coma;100.0
+wiki_partially;68;Piet Mondrian died of pneumonia on February 1, 1944 and was interred in the Cypress Hills Cemetery in Brooklyn, New York.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_partially;82;Hayes was hospitalized a number of times for her asthma condition, which was aggravated by stage dust, forcing her to retire from legitimate theater in 1971, at age 71.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_partially;104;Four years later William died in the 1918 influenza pandemic.;influenza;['flu'];flu;50.0
+wiki_partially;120;"However, most studies have found no evidence of impairment in autistic individuals' ability to understand other people's basic intentions or goals; instead, data suggests that impairments are found in understanding more complex social emotions or in considering others' viewpoints.";autistic;['autism'];autism;83.0
+wiki_partially;136;Surveys of plague pit remains in France and England indicate the first variant entered Europe through the port of Marseille around November 1347 and spread through France over the next two years, eventually reaching England in the spring of 1349, where it spread through the country in three epidemics.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_partially;139;The Third plague pandemic (1855-1959) started in China in the middle of the 19th century, spreading to all inhabited continents and killing 10 million people in India alone.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_partially;146;He suffered a stroke on the road between Delden and Nordhorn on 9 June 1727, and was taken by carriage to the Prince-Bishop's palace at Osnabrück where he died in the early hours of 11 June 1727.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;161;It was expected that the guppies would eat the mosquito larvae and help slow the spread of malaria, but in many cases, these guppies have had a negative impact on native fish populations.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;165;"A scoring system called ROSIER (recognition of stroke in the emergency room) is recommended for this purpose; it is based on features from the medical history and physical examination.";stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;166;High blood pressure is the most important modifiable risk factor of stroke.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;187;Normally a gamete (sperm or egg) carries a full set of chromosomes that includes a single copy of each chromosome, as aneuploidy generally leads to severe genetic disease in the offspring.;aneuploidy;['aneuploidy'];aneuploidy;100.0
+wiki_partially;232;After suffering a stroke on January 4, 2006, Sharon remained in a permanent vegetative state until his death in January 2014, Sharon was born on February 26, 1928 in Kfar Malal, an agricultural moshav, then in the British Mandate of Palestine, to Shmuel Scheinerman (1896-1956) of Brest-Litovsk and Vera (née Schneirov) Scheinerman (1900-1988) of Mogilev.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;234;Perlman contracted polio at age four.;polio;['polio', 'polioencephalitis'];polio;100.0
+wiki_partially;241;It is thought the leopard has erythrism, a little-understood genetic condition that's thought to cause either an overproduction of red pigments or an underproduction of dark pigments Fossils of early leopard ancestors have been found in East Africa and South Asia from the Pleistocene of 2 to 3.5 Ma.;erythrism;[];;
+wiki_partially;273;The ill-prepared and poorly supplied colonists lost over half of its population through a multitude of problems -- including hunger, scurvy, disease and their first bitter winter on the North American mainland.;scurvy;['scurvy'];scurvy;100.0
+wiki_partially;277;Subunit vaccine is being used for plague immunization.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_partially;279;Examples of toxoid-based vaccines include tetanus and diphtheria.;diphtheria;['diphtheria'];diphtheria;100.0
+wiki_partially;287;Henry II moved in support of Richard, and Henry the Young King died from dysentery at the end of the campaign.;dysentery;['dysentery', 'infectious diarrhea'];dysentery;100.0
+wiki_partially;290;Roberts died of pneumonia at St Omer, France, on 14 November 1914 while visiting Indian troops fighting in the First World War.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_partially;293;He died in Bayreuth, Germany, on July 31, 1886, at the age of 74, officially as a result of pneumonia, which he may have contracted during the Bayreuth Festival hosted by his daughter Cosima.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_partially;311;Cellulite is thought to occur in 80-90% of post-adolescent females.;Cellulite;['cellulite', 'cellulitis'];cellulite;100.0
+wiki_partially;312;For the infection of skin and its underlying connective tissue, see cellulitis.;cellulitis;['cellulitis', 'cellulite', 'phlegmon'];cellulitis;100.0
+wiki_partially;314;Thrush is commonly seen in infants.;Thrush;['thrush'];thrush;100.0
+wiki_partially;327;Absinthe's popularity grew steadily through the 1840s, when absinthe was given to French troops as a malaria preventive.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;342;At some point, the virus in use was no longer cowpox, but vaccinia.;cowpox;['cowpox'];cowpox;100.0
+wiki_partially;351;Modern scholars believe that the plague killed up to 5,000 people per day in Constantinople at the peak of the pandemic.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_partially;355;The initial plague ultimately killed perhaps 40% of the city's inhabitants and caused the deaths of up to a quarter of the human population of the eastern Mediterranean.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_partially;367;1849 was the first year of large scale cholera epidemics in the United States, and thousands are thought to have died along the trail on their way to California-most buried in unmarked graves in Kansas and Nebraska.;cholera;['cholera'];cholera;100.0
+wiki_partially;369;"She later said she ""used to quite like bulimia"", but was able to overcome the illness.";bulimia;['bulimia'];bulimia;100.0
+wiki_partially;371;People diagnosed with schizophrenia are more likely to have been born in winter or spring (at least in the northern hemisphere), which may be a result of increased rates of viral exposures in utero.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_partially;375;In 40% of men and 23% of women diagnosed with schizophrenia, the condition manifested itself before the age of 19.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_partially;376;Positive symptoms are those that most individuals do not normally experience but are present in people with schizophrenia.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_partially;390;He died of diabetes in Venice on 19 August 1929, and is buried on the nearby island of San Michele.;diabetes;['diabetes'];diabetes;100.0
+wiki_partially;396;This theory of ecological decline is supported by archaeological remains that show a rise in the percentage of juvenile skeletons with evidence of malnutrition during the 6th century.;malnutrition;['malnutrition', 'undernutrition'];malnutrition;100.0
+wiki_partially;407;An occlusion of an artery supplying the brain can cause a stroke.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;417;Bulimia also has negative effects on the sufferer's dental health due to the acid passed through the mouth from frequent vomiting causing acid erosion, mainly on the posterior dental surface.;Bulimia;['bulimia'];bulimia;100.0
+wiki_partially;487;While staying at the Grand Hotel et de Milan in Milan, Verdi suffered a stroke on 21 January 1901.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;524;LSD can cause pupil dilation, reduced or increased appetite, and wakefulness.;LSD;[];;
+wiki_partially;549;Fauré died in Paris from pneumonia on 4 November 1924 at the age of 79.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_partially;552;Brummell died penniless and insane from syphilis at Le Bon Sauveur Asylum on the outskirts of Caen in 1840.;syphilis;['syphilis'];syphilis;100.0
+wiki_partially;553;On 24 March 1950, his eyes were infected by trachoma.;trachoma;['trachoma'];trachoma;100.0
+wiki_partially;558;Mastai-Ferretti chose the name of Pius IX in honor of Pope Pius VII (1800-23), who had encouraged his vocation to the priesthood despite his childhood epilepsy.;epilepsy;['epilepsy', 'aura'];epilepsy;100.0
+wiki_partially;570;"In 1900, Cayce formed a business partnership with his father to sell Woodmen of the World Insurance; however, in March he was struck by severe laryngitis that resulted in a complete loss of speech.";laryngitis;['laryngitis'];laryngitis;100.0
+wiki_partially;579;Alexandra died in 1869 from meningitis.;meningitis;['meningitis', 'meningitis/encephalitis', 'pachymeningitis'];meningitis;100.0
+wiki_partially;649;Air pollution is also emerging as a risk factor for stroke, particularly in developing countries where pollutant levels are highest.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;675;High doses may lead to convulsions.;convulsions;['seizure', 'convulsion', 'complex partial seizures', 'cps', 'grand mal seizures', 'focal seizures', 'clonic seizures', 'jacksonian seizures', 'motor seizures', 'generalized tonic-clonic seizure', 'generalized seizures', 'sensory seizures', 'vertiginous epilepsy', 'epileptic vertigo', 'visual seizure', 'tonic seizure', 'atonic seizures', 'astatic seizure'];seizure;15.0
+wiki_partially;698;Denkova / Staviski withdrew from the 2000 European Championships after Staviski fell ill with pneumonia.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_partially;731;People with severe astigmatism, however, may still need to use their glasses while using binoculars.;astigmatism;['astigmatism'];astigmatism;100.0
+wiki_partially;733;The use of some neuroleptics or hypnotics can also cause sleepwalking to occur.;sleepwalking;['sleepwalking'];sleepwalking;100.0
+wiki_partially;734;This presence might suggest an immaturity in the central nervous system, also a possible cause of sleepwalking.;sleepwalking;['sleepwalking'];sleepwalking;100.0
+wiki_partially;735;Usually, if sleepwalking occurs at all, it will only occur once in a night.;sleepwalking;['sleepwalking'];sleepwalking;100.0
+wiki_partially;748;However, Albert Victor died six weeks later, in the worldwide influenza pandemic that swept through Britain in the winter of 1891-2.;influenza;['flu'];flu;50.0
+wiki_partially;774;Acne occurs most commonly during adolescence, affecting an estimated 80-90% of teenagers in the Western world.;Acne;['acne'];acne;100.0
+wiki_partially;855;From 1941 to 1945, almost 20,000 Soviet prisoners of war and a further 50,000 inmates died there, with up to 35,000 of them dying of typhus in the first few months of 1945, shortly before and after the liberation.;typhus;['typhus', 'typhoid fever', 'epidemic typhus'];typhus;100.0
+wiki_partially;857;After second-in-command James Poole died of scurvy, Sturt appointed Stuart in his place.;scurvy;['scurvy'];scurvy;100.0
+wiki_partially;858;A stillbirth occurs when a fetus has died in the uterus.;stillbirth;['stillbirth', 'stillborn'];stillbirth;100.0
+wiki_partially;860;"In March 1918, some of the first recorded American cases of what came to be the worldwide influenza epidemic, also known as ""Spanish Flu"", were reported at Camp Funston.";influenza;['flu'];flu;50.0
+wiki_partially;877;There are three types of vertigo.;vertigo;['dizziness', 'positional vertigo', 'postural vertigo', 'paroxysmal vertigo', 'labrynthitis', 'peripheral vertigo'];dizziness;17.0
+wiki_partially;917;Gavin Arvizo is also interviewed and states that it was Jackson's support that helped him beat his bout with cancer.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_partially;925;Vaginoplasty utilizes autologous (patient-derived) tissue from the patient's person, to construct areas of vagina and areas of the vulvovaginal complex.;Vaginoplasty;[];;
+wiki_partially;929;EEG is often used in patients with epilepsy to detect seizure activity.;epilepsy;['epilepsy', 'aura'];epilepsy;100.0
+wiki_partially;946;In the Caucasus he started working as a journalist, but when they were invited to return as doctors by the French and German governments, Bulgakov was refused permission to leave Russia because of the typhus.;typhus;['typhus', 'typhoid fever', 'epidemic typhus'];typhus;100.0
+wiki_partially;953;In hypomania, there is less need for sleep and both goal-motivated behavior and metabolism increase.;hypomania;['hypomania'];hypomania;100.0
+wiki_partially;972;The Grand Prince, after much suffering, died from syphilis on 31 October 1713, sparking a succession crisis and leaving his wife a childless and therefore purposeless widow.;syphilis;['syphilis'];syphilis;100.0
+wiki_partially;975;Exposure during the birth year to malaria eradication was associated with increases in IQ.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;980;An operation that combines the removal of a Fallopian tube with removal of at least one ovary is a salpingo-oophorectomy.;salpingo-oophorectomy;[];;
+wiki_partially;997;The Third Plague Pandemic in the mid-19th century killed 10 million people in India.;Plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_partially;1021;He died of respiratory arrest related to the tumor on October 5, 2011.;tumor;['tumor'];tumor;100.0
+wiki_partially;1031;He awakens weeks later from a coma in an abandoned and badly damaged hospital.;coma;['coma'];coma;100.0
+wiki_partially;1072;Pain is a symptom of many medical conditions.;Pain;['pain', 'burning pain', 'ache', 'radiating pain'];pain;100.0
+wiki_partially;1098;Since antiviral drugs are effective in treating influenza if given early (see treatment section, below), it can be important to identify cases early.;influenza;['flu'];flu;50.0
+wiki_partially;1105;Symptoms of influenza can start quite suddenly one to two days after infection.;influenza;['flu'];flu;50.0
+wiki_partially;1106;These tests may be especially useful during the influenza season (prevalence = 25%) but in the absence of a local outbreak, or peri-influenza season (prevalence = 10%).;influenza;['flu'];flu;50.0
+wiki_partially;1107;The type A viruses are the most virulent human pathogens among the three influenza types and cause the most severe disease.;influenza;['flu'];flu;50.0
+wiki_partially;1109;In the 20th century three influenza pandemics occurred, each caused by the appearance of a new strain of the virus in humans, and killed tens of millions of people.;influenza;['flu'];flu;50.0
+wiki_partially;1111;Influenza spreads around the world in seasonal epidemics, resulting in about three to five million yearly cases of severe illness and about 250,000 to 500,000 yearly deaths, rising to millions in some pandemic years.;Influenza;['flu'];flu;50.0
+wiki_partially;1140;There she began suffering from severe epileptic-shocks.;epileptic-shocks;['epilepsy', 'physiological shock', 'shock syndrome'];epilepsy;61.0
+wiki_partially;1158;A large number of medications and other chemical agents can cause hepatitis.;hepatitis;['hepatitis', 'hepatitis a', 'infectious hepatitis', 'hepatitis viral', 'liver disease', 'abnormal liver function', 'liver dysfunction'];hepatitis;100.0
+wiki_partially;1197;She suffered a second stroke soon after, and her health deteriorated rapidly.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;1232;The several kinds of anemia are produced by a variety of underlying causes.;anemia;['anemia'];anemia;100.0
+wiki_partially;1240;Jurors 5, 6 and 8 question whether this is true, as the witness in question had had a stroke, limiting his ability to walk.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;1247;After a brief period of recovery in February 1377, the king died of a stroke at Sheen on 21 June.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;1318;Initially, Graham intended to become a chaplain in the armed forces but, shortly after applying for a commission, contracted mumps.;mumps;['mumps'];mumps;100.0
+wiki_partially;1320;The purpose of the mask was to keep away bad smells, which were thought to be the principal cause of the disease in the miasma theory of infection, before it was disproved by germ theory.;miasma;[];;
+wiki_partially;1335;In 1356, after the plague had passed and England was able to recover financially, Edward's son and namesake, the Prince of Wales, known as the Black Prince, invaded France from Gascony, winning a great victory in the Battle of Poitiers.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_partially;1358;The conditions are distinguished by the different presentation of pain, white blood cells (WBCs) in the urine, duration of symptoms and bacteria cultured from the urine.;pain;['pain', 'burning pain', 'ache', 'radiating pain'];pain;100.0
+wiki_partially;1363;In October 1992, a scientific report was published of successfully transplanting melanocytes to vitiligo affected areas, effectively repigmenting the region.;vitiligo;['vitiligo'];vitiligo;100.0
+wiki_partially;1364;In mild cases, vitiligo patches can be hidden with makeup or other cosmetic camouflage solutions.;vitiligo;['vitiligo'];vitiligo;100.0
+wiki_partially;1367;The cause of vitiligo is unknown, but research suggests that it may arise from autoimmune, genetic, oxidative stress, neural, or viral causes.;vitiligo;['vitiligo'];vitiligo;100.0
+wiki_partially;1382;Dilation and curettage (D&C), the second most common method of surgical abortion, is a standard gynecological procedure performed for a variety of reasons, including examination of the uterine lining for possible malignancy, investigation of abnormal bleeding, and abortion.;malignancy;['cancer', 'primary cancer'];cancer;33.0
+wiki_partially;1399;Miklós Kertész, born in Szécsény, Hungary into a large Jewish family, was the director of a leather-works who died of appendicitis in 1938.;appendicitis;['appendicitis'];appendicitis;100.0
+wiki_partially;1401;Batman's health quickly declined after 1835 as syphilis had disfigured and crippled him, and he became estranged from his wife, convict Elizabeth Callaghan.;syphilis;['syphilis'];syphilis;100.0
+wiki_partially;1403;In some people, the disease proceeds to a critical phase as fever resolves.;fever;['fever', 'hyperthermic', 'feverish', 'fever symptoms'];fever;100.0
+wiki_partially;1455;Fitzgerald began working on his fourth novel during the late 1920s but was sidetracked by financial difficulties that necessitated his writing commercial short stories, and by the schizophrenia that struck Zelda in 1930.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_partially;1466;In the skin, the virus causes local inflammation and blistering.;blistering;['blister', 'blistering eruption'];blister;100.0
+wiki_partially;1472;Apart from the rash, most symptoms can occur also in other conditions.;rash;['rash'];rash;100.0
+wiki_partially;1504;Also, avoiding touching one's eyes, nose or mouth with one's hands helps to prevent the flu.;flu;['flu'];flu;100.0
+wiki_partially;1532;The increased acid load damages the duodenum, which may eventually result in ulcers forming in the duodenum.;ulcers;['ulcer'];ulcer;100.0
+wiki_partially;1544;"85% of children presenting to the emergency department have mild disease; severe croup is rare ((1%).";croup;['croup'];croup;100.0
+wiki_partially;1549;Tsetse vector ranges mostly in the central part of Africa.;Tsetse;[];;
+wiki_partially;1550;Malaria is typically diagnosed by the microscopic examination of blood using blood films, or with antigen-based rapid diagnostic tests.;Malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1552;There are several serious complications of malaria.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1554;There are a number of other methods to reduce mosquito bites and slow the spread of malaria.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1555;Symptoms of malaria can recur after varying symptom-free periods.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1556;Intermittent preventive therapy is another intervention that has been used successfully to control malaria in pregnant women and infants, and in preschool children where transmission is seasonal.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1559;Drug resistance poses a growing problem in 21st century malaria treatment.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1561;There are a number of drugs that can help prevent malaria while traveling in areas where it exists.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1570;Mosquito nets help keep mosquitoes away from people and reduce infection rates and transmission of malaria.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1573;This reduces the frequency with which malaria parasites complete their life cycle in the cell.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1580;The use of preventative drugs is seldom practical for those who reside in areas where malaria exists, and their use is usually only in short-term visitors and travellers.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1581;Although tropical regions are most affected, malaria's furthest influence reaches into some temperate zones that have extreme seasonal changes.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1582;Modern techniques that use the polymerase chain reaction to detect the parasite's DNA have also been developed, but these are not widely used in malaria-endemic areas due to their cost and complexity.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1585;After feeding, many mosquito rest on a nearby surface while digesting the bloodmeal, so if the walls of houses have been coated with insecticides, the resting mosquitoes can be killed before they can bite another person and transfer the malaria parasite.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1591;The use of preventative drugs where malaria-bearing mosquitoes are present may encourage the development of partial resistance.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1595;"Sande died of an apparent anorexia in 1957, after a long fast when she was 20; at the time of her death, she weighed only 60 pounds.";anorexia;['anorexia', 'anorectic', 'anorexia nervosa'];anorexia;100.0
+wiki_partially;1599;The first symptom of leprosy which is most obvious is excess eye fluid.;leprosy;['leprosy'];leprosy;100.0
+wiki_partially;1602;"Contrary to folklore, leprosy does not cause body parts to fall off, although they can become numb or diseased as a result of secondary infections; these occur as a result of the body's defenses being compromised by the primary disease.";leprosy;['leprosy'];leprosy;100.0
+wiki_partially;1604;Globally in 2012 the number of cases of leprosy was 180,000, having decreased a great deal since the 1960s.;leprosy;['leprosy'];leprosy;100.0
+wiki_partially;1605;Several genes have been associated with a susceptibility to leprosy.;leprosy;['leprosy'];leprosy;100.0
+wiki_partially;1606;Leprosy has been associated with social stigma for much of history, which remains a barrier to self-reporting and early treatment.;Leprosy;['leprosy'];leprosy;100.0
+wiki_partially;1610;There is no recognized etiology for infantilism and little research on the subject.;infantilism;['infantilism'];infantilism;100.0
+wiki_partially;1620;In May 1878, Dostoyevsky's three-year-old son Alyosha died of epilepsy, a condition inherited from his father.;epilepsy;['epilepsy', 'aura'];epilepsy;100.0
+wiki_partially;1623;"According to the fifth Diagnostic and Statistical Manual of Mental Disorders (DSM), DID includes ""the presence of two or more distinct identities or personality states"" that alternate control of the individual's behavior, accompanied by the inability to recall personal information beyond what is expected through normal forgetfulness.";forgetfulness;['forgetfulness'];forgetfulness;100.0
+wiki_partially;1629;Paris Green was heavily sprayed by airplane in Italy, Sardinia, and Corsica during 1944 and in Italy in 1945 to control malaria.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1648;The idea to overlap these senses comes from the natural condition synaesthesia.;synaesthesia;['synesthesia'];synesthesia;96.0
+wiki_partially;1711;In January 1876, his father died of bronchitis following a long period of depression.;bronchitis;['bronchitis'];bronchitis;100.0
+wiki_partially;1713;"The discovery in 2009 of the ""Jat mutation"" that causes a type of glaucoma in Romani populations suggests that the Romani people are the descendants of the Jat people found in the Indian subcontinent.";glaucoma;['glaucoma'];glaucoma;100.0
+wiki_partially;1757;The cause of diverticulitis is unknown.;diverticulitis;['diverticulitis'];diverticulitis;100.0
+wiki_partially;1781;There are some hundreds to a thousand outbreaks of tularemia yearly in Finland, the same goes to neighboring Sweden.;tularemia;['tularemia'];tularemia;100.0
+wiki_partially;1783;Tularemia is not spread directly from person to person.;Tularemia;['tularemia'];tularemia;100.0
+wiki_partially;1794;One of his arms and both feet became enlarged and at some point during his childhood he fell and damaged his hip, resulting in permanent lameness.;lameness;['claudication'];claudication;36.0
+wiki_partially;1803;Psychiatry is a pseudo-science that parodies medicine by using medical sounding words invented especially over the last 100 years.;Psychiatry;[];;
+wiki_partially;1810;"Note that in Modern Greek the word empathy (εμπάθεια) translates as ""hatred"", ""loathing"", ""malevolence"" and ""spitefulness"" (a situation of causing passion, rather than mutual relation to one's passion); ενσυναίσθηση is the correct modern equivalent of empathy.";empathy;[];;
+wiki_partially;1816;Logorrhea is a symptom of an underlying illness, and should be treated by a medical professional.;Logorrhea;['logorrhea'];logorrhea;100.0
+wiki_partially;1823;On 27 December, Ian Curtis suffered his first recognisable epileptic episode.;epileptic;['epilepsy', 'aura'];epilepsy;80.0
+wiki_partially;1829;Tajikistan is the only country in world where polio is on the rise.;polio;['polio', 'polioencephalitis'];polio;100.0
+wiki_partially;1835;After she suffered from bronchopneumonia as a child, her parents were advised it would aid her recovery if they were to live in a warmer climate.;bronchopneumonia;['bronchopneumonia'];bronchopneumonia;100.0
+wiki_partially;1837;She died in The Hague on 20 March 1934, of complications from bronchitis at the age of 75, and was buried in Delft.;bronchitis;['bronchitis'];bronchitis;100.0
+wiki_partially;1851;Because Tasmanian devils have extremely low levels of genetic diversity and a chromosomal mutation unique among carnivorous mammals, they are more prone to the infectious cancer.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_partially;1860;Priests believed that an illness such as epilepsy was caused by the gods.;epilepsy;['epilepsy', 'aura'];epilepsy;100.0
+wiki_partially;1867;There is currently no effective treatment or cure for akinetopsia.;akinetopsia;[];;
+wiki_partially;1868;Patients with akinetopsia struggle with many issues in their day-to-day life, depending on the severity of their condition.;akinetopsia;[];;
+wiki_partially;1881;The conditions necessary for a language to arise occurred in 1977, when a center for special education established a program initially attended by 50 young deaf children.;deaf;['deafness', 'complete hearing loss', 'deaf mutism'];deafness;100.0
+wiki_partially;1887;This change increases the susceptibility to acne, a skin condition that is characteristic of puberty.;acne;['acne'];acne;100.0
+wiki_partially;1910;However, it was not until 1747 that James Lind formally proved that scurvy could be treated and prevented by supplementing the diet with citrus fruit, though not by other acids, in the first ever clinical trial.;scurvy;['scurvy'];scurvy;100.0
+wiki_partially;1915;The time frame between injection of parasite inside human and development of first symptoms of malaria is its intrinsic incubation period.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_partially;1926;She developed pneumonia and died just 26 days after leaving the White House, on March 30, 1853, at the Willard Hotel in Washington, D.C., the shortest post-Presidential life of any former first lady.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_partially;1966;In 1993, she had to have both of her legs amputated below the knee due to the effects of diabetes.;diabetes;['diabetes'];diabetes;100.0
+wiki_partially;1979;He died of complications from diabetes on December 4, 1912, less than eight months after the sinking.;diabetes;['diabetes'];diabetes;100.0
+wiki_partially;2003;The risk of bacteriuria (bacteria in the urine) is between three to six percent per day and prophylactic antibiotics are not effective in decreasing symptomatic infections.;bacteriuria;['bacteriuria'];bacteriuria;100.0
+wiki_partially;2013;Psychoactive substances often bring about subjective (although these may be objectively observed) changes in consciousness and mood that the user may find pleasant (e.g. euphoria) or advantageous (e.g. increased alertness) and are thus reinforcing.;euphoria;[];;
+wiki_partially;2028;Blood transfusion, transfusion of blood products, or organ transplants without HCV screening carry significant risks of infection.;HCV;[];;
+wiki_partially;2029;HCV is spread primarily by blood-to-blood contact associated with intravenous drug use, poorly sterilized medical equipment, and transfusions.;HCV;[];;
+wiki_partially;2037;Limitations in the implementation and enforcement of stringent standard precautions in public and private medical and dental facilities are known to be the primary cause of the spread of HCV in Egypt, the country with highest rate of infection in the world.;HCV;[];;
+wiki_partially;2054;Use of antibiotics in early life has been linked to the development of asthma.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_partially;2059;It is estimated that 5-25% of asthma cases in adults are work-related.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_partially;2060;Some people with asthma rarely experience symptoms, usually in response to triggers, whereas others may have marked and persistent symptoms.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_partially;2062;The hygiene hypothesis attempts to explain the increased rates of asthma worldwide as a direct and unintended result of reduced exposure, during childhood, to non-pathogenic bacteria and viruses.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_partially;2066;Evidence supporting the hygiene hypothesis includes lower rates of asthma on farms and in households with pets.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_partially;2070;The occurrence of asthma has increased significantly since the 1970s.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_partially;2071;There is a link between asthma and the degree of affluence.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_partially;2074;Also, delivery via caesarean section is associated with an increased risk (estimated at 20-80%) of asthma-this increased risk is attributed to the lack of healthy bacterial colonization that the newborn would have acquired from passage through the birth canal.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_partially;2075;Harrison died on his 32nd day in office of complications from pneumonia, serving the shortest tenure in United States presidential history.;pneumonia;['pneumonia', 'pulmonitis', 'pneumococcal pneumonia'];pneumonia;100.0
+wiki_partially;2120;About 1% of people worldwide (65 million) have epilepsy, and nearly 80% of cases occur in developing countries.;epilepsy;['epilepsy', 'aura'];epilepsy;100.0
+wiki_partially;2121;Epilepsy becomes more common as people age.;Epilepsy;['epilepsy', 'aura'];epilepsy;100.0
+wiki_partially;2122;In certain types of epilepsy, seizures happen more often during sleep, and in other types they occur almost only when sleeping.;epilepsy;['epilepsy', 'aura'];epilepsy;100.0
+wiki_partially;2124;There are a number of non-profit organizations that provide support to people and families affected by epilepsy.;epilepsy;['epilepsy', 'aura'];epilepsy;100.0
+wiki_partially;2126;Malnutrition is a risk factor seen mostly in the developing world, although it is unclear however if it is a direct cause or an association.;Malnutrition;['malnutrition', 'undernutrition'];malnutrition;100.0
+wiki_partially;2127;The seed is also used in various alternative healing systems like Ayurveda (to control diabetes, for example.);diabetes;['diabetes'];diabetes;100.0
+wiki_partially;2134;This contrasts with the posterior pituitary (neurohypophysis), which originates from neuroectoderm.;neurohypophysis;[];;
+wiki_partially;2141;In normal adults, the mass of the heart is 250-350 grams (9-12 oz), or about twice the size of a clenched fist (it is about the size of a clenched fist in children), but an extremely diseased heart can be up to 1000 g (2 lb) in mass due to hypertrophy.;hypertrophy;['enlargement'];enlargement;24.0
+wiki_partially;2156;Blond hair is the result of having little pigmentation in the hair strand.;pigmentation;['hypopigmentation'];hypopigmentation;78.0
+wiki_partially;2157;Gray hair occurs when melanin production decreases or stops, while poliosis, typically in spots is hair (and often the skin to which the hair is attached) that never possessed melanin at all in the first place, or ceased for natural genetic reasons, generally in the first years of life.;poliosis;['poliosis'];poliosis;100.0
+wiki_partially;2167;Many of these risk factors are the same as those associated with having a major symptomatic stroke.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;2232;Obesity has thus historically been viewed as a sign of wealth and prosperity.;Obesity;['obesity'];obesity;100.0
+wiki_partially;2233;Dieting and physical exercise are the mainstays of treatment for obesity.;obesity;['obesity'];obesity;100.0
+wiki_partially;2238;Obesity is stigmatized in much of the modern world (particularly in the Western world), though it was widely seen as a symbol of wealth and fertility at other times in history, and still is in some parts of the world.;Obesity;['obesity'];obesity;100.0
+wiki_partially;2239;Obesity is a leading preventable cause of death worldwide, with increasing rates in adults and children.;Obesity;['obesity'];obesity;100.0
+wiki_partially;2240;This apparent alteration of the metabolic potential is believed to confer a greater capacity to harvest energy contributing to obesity.;obesity;['obesity'];obesity;100.0
+wiki_partially;2243;Costs for restaurants are increased by litigation accusing them of causing obesity.;obesity;['obesity'];obesity;100.0
+wiki_partially;2245;As a result, obesity has been found to reduce life expectancy.;obesity;['obesity'];obesity;100.0
+wiki_partially;2246;Obese people consistently under-report their food consumption as compared to people of normal weight.;Obese;['obesity'];obesity;100.0
+wiki_partially;2269;Unfortunately, he fell victim of the plague early in 1680, and died in Prague, where the Viennese court moved in an attempt to evade the epidemic.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_partially;2270;He died during a plague epidemic only months after getting the position.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_partially;2313;Gajdusek concluded that kuru was transmitted by the ritualistic consumption of the brains of deceased relatives, which was practiced by the Fore.;kuru;['kuru'];kuru;100.0
+wiki_partially;2317;With elimination of cannibalism, kuru disappeared among the South Fore within a generation.;kuru;['kuru'];kuru;100.0
+wiki_partially;2332;The Polish family appears and Aschenbach determines that they must not find out about the cholera outbreak for fear that they will leave.;cholera;['cholera'];cholera;100.0
+wiki_partially;2334;The citizens too deny that there is any cause for worry, but Aschenbach finds a graver warning in a German newspaper: 'We doubt the good faith of the Venetian city fathers in their refusal to admit to the cases of cholera in the city.;cholera;['cholera'];cholera;100.0
+wiki_partially;2341;Only in a few cases and after many years does it cause demyelination.;demyelination;['demyelination', 'demyelinating disease'];demyelination;100.0
+wiki_partially;2348;Inflammation can potentially reduce transmission of information between neurons in at least three ways.;Inflammation;['inflammation'];inflammation;100.0
+wiki_partially;2355;Though legally blind because of astigmatism and a subsequent injury to his right eye, Knight pursued his artistic talents with the help of specially-designed glasses, and at the age of twelve, he enrolled at the Metropolitan Art School to become a commercial artist.;astigmatism;['astigmatism'];astigmatism;100.0
+wiki_partially;2361;The cholera outbreak which began in October 2010 has continued.;cholera;['cholera'];cholera;100.0
+wiki_partially;2390;Symptoms often start with vomiting followed by four to eight days of profuse diarrhoea.;diarrhoea;['diarrhea', 'diarrhea symptoms'];diarrhea;94.0
+wiki_partially;2391;Some people with bronchiectasis may produce frequent green/yellow sputum (up to 240ml (8 oz) daily).;bronchiectasis;['bronchiectasis'];bronchiectasis;100.0
+wiki_partially;2395;Bronchiectasis has both congenital and acquired causes, with the latter more frequent.;Bronchiectasis;['bronchiectasis'];bronchiectasis;100.0
+wiki_partially;2409;The most common cause is gastroenteritis.;gastroenteritis;['gastroenteritis'];gastroenteritis;100.0
+wiki_partially;2429;Viruses are the usual infectious agents that cause cancer but bacteria and parasites may also have an effect.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_partially;2469;A stroke in 1857 left the king partially paralyzed and largely mentally incapacitated, and his brother William served as regent from 1858 until the king's death in 1861, at which point he acceded to the throne himself as William I. Frederick William IV is buried, together with his wife, in the crypt underneath the Friedenskirche in the park of Sanssouci, Potsdam.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;2471;Acromegaly most commonly affects adults in middle age, and can result in severe disfigurement, complicating conditions, and premature death if unchecked.;Acromegaly;['acromegaly'];acromegaly;100.0
+wiki_partially;2486;Suffering from gout, King returned to England in October 1796, and after regaining his health, and resuming his naval career, he was appointed to replace Captain John Hunter as the third Governor of New South Wales.;gout;['gout'];gout;100.0
+wiki_partially;2511;When occurring, auras allow epileptics time to prevent injury to themselves and/or others.;epileptics;['epilepsy', 'aura'];epilepsy;80.0
+wiki_partially;2518;That was the first and last time that Bo Diddley performed publicly after suffering a stroke.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;2520;Support for people with disabilities was improved over Windows NT 4.0 with a number of new assistive technologies, and Microsoft increased support for different languages and locale information.;disabilities;['disability'];disability;100.0
+wiki_partially;2572;In the early morning of 25 December 1977, he died at home after suffering a stroke in his sleep.;stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_partially;2574;As a result of the lockout, no Stanley Cup champion was crowned for the first time since the flu pandemic in 1919.;flu;['flu'];flu;100.0
+wiki_partially;2586;The cutaneous form of the disease is caused by more than 15 types of Leishmania.;Leishmania;[];;
+wiki_partially;2598;Syphilis is thought to have infected 12 million people worldwide in 1999, with greater than 90% of cases in the developing world.;Syphilis;['syphilis'];syphilis;100.0
+wiki_partially;2601;Two-thirds of syphilitic infants are born without symptoms.;syphilitic;[];;
+wiki_partially;2603;Secondary syphilis occurs approximately four to ten weeks after the primary infection.;syphilis;['syphilis'];syphilis;100.0
+wiki_partially;2609;Syphilis can present in one of four different stages: primary, secondary, latent, and tertiary, and may also occur congenitally.;Syphilis;['syphilis'];syphilis;100.0
+wiki_partially;2614;Latent syphilis is defined as having serologic proof of infection without symptoms of disease.;syphilis;['syphilis'];syphilis;100.0
+wiki_partially;2629;D., (December 10, 1787 -- September 10, 1851) was a renowned American pioneer in the education of the deaf.;deaf;['deafness', 'complete hearing loss', 'deaf mutism'];deafness;100.0
+wiki_partially;2684;In this version of the story, Faust is an elderly scholar and alchemist who is frustrated at his inability to help the plague-stricken population.;plague;['plague', 'bubonic plague', 'pneumonic plague'];plague;100.0
+wiki_partially;2730;Most 3D scanners suitable for BVI require that the subject is scanned for a series of images under varying lighting conditions (various projected patterns), to determine body shape and weight distribution data for individual patient and statistical analysis and BVI is currently under evaluation by government agencies in the UK as a possible long-term replacement for BMI.;BVI;[];;
+wiki_partially;2731;BVI was conceived as a potential replacement for BMI at the turn of the millennium and after preliminary development, initial validation was undertaken by Heartlands Hospital, an NHS Obesity Centre in the UK.;Obesity;['obesity'];obesity;100.0
+wiki_partially;2738;The risk, however, varies depending on the degree of hyperuricemia.;hyperuricemia;['hyperuricemia'];hyperuricemia;100.0
+wiki_partially;2780;Also, many blind people have nystagmus, which is one reason that some wear dark glasses.;nystagmus;['nystagmus'];nystagmus;100.0
+wiki_partially;2785;"During John Paul II's reign, the Vatican described homosexuality as an ""objective disorder"" and in his own book Memory and Identity John Paul II describes the concept of gay families as an ""ideology of evil"", phrases which incensed many parts of the LGBT community.";homosexuality;[];;
+wiki_partially;2807;"There is little support for increased fight-or-flight response or failure of habituation in autism; there is more evidence of decreased responsiveness to sensory stimuli, although several studies show no differences.";autism;['autism'];autism;100.0
+wiki_partially;2813;The spasms can also affect the chest, neck, back, abdominal muscles, and buttocks.;spasms;['spasm', 'ciliary spasm'];spasm;100.0
+wiki_partially;2816;The incubation period of tetanus may be up to several months, but is usually about eight days.;tetanus;['tetanus'];tetanus;100.0
+wiki_partially;2848;Cholera is rarely spread directly from person to person.;Cholera;['cholera'];cholera;100.0
+wiki_partially;2853;The most common error in caring for patients with cholera is to underestimate the speed and volume of fluids required.;cholera;['cholera'];cholera;100.0
+wiki_partially;2863;For these individuals, the current value settings are as follows: a BMI of 18.5 to 25 may indicate optimal weight, a BMI lower than 18.5 suggests the person is underweight, a number above 25 may indicate the person is overweight, a number above 30 suggests the person is obese.;obese;['obesity'];obesity;100.0
+wiki_partially;2880;Low levels of damaging forces produce small bruises and generally cause the individual to feel minor pain straight away.;bruises;['bruise', 'contused', 'hematoma'];bruise;100.0
+wiki_partially;2885;He died of cholera three months after his term ended.;cholera;['cholera'];cholera;100.0
+wiki_partially;2904;"However, Satie's military career did not last very long; within a few months he was discharged after deliberately infecting himself with bronchitis.";bronchitis;['bronchitis'];bronchitis;100.0
+wiki_partially;2905;Lully died from gangrene, having struck his foot with his long conducting staff during a performance of his Te Deum to celebrate Louis XIV's recovery from surgery.;gangrene;['gangrene'];gangrene;100.0
+wiki_partially;2909;Rape by strangers is usually less common than rape by persons the victim knows, and several studies argue that male-male and female-female prison rape are quite common and may be the least reported forms of rape.;rape;[];;
+wiki_partially;2931;Priapism is a medical condition which could possibly be painful, and is a prolonged erection at least four hours long, which does not return to its flaccid state, despite the absence of both physical and psychological stimulation.;Priapism;['priapism'];priapism;100.0
+wiki_partially;2949;There are many detrimental health effects of obesity: Individuals with a BMI (Body Mass Index) exceeding a healthy range have a much greater risk of medical issues.;obesity;['obesity'];obesity;100.0
+wiki_partially;2956;Alice herself soon fell ill with diphtheria, and died on the anniversary of her father's death, 14 December 1878, when Alix was only six years old.;diphtheria;['diphtheria'];diphtheria;100.0
+wiki_partially;2974;If both parents of a child have achondroplasia, and both parents pass on the mutant gene, then it is very unlikely that the homozygous child will live past a few months of its life.;achondroplasia;['achondroplasia'];achondroplasia;100.0
+wiki_partially;2976;Under pretence of saving the other children from the contagion of scrofula she persuaded the father to keep Germaine away from the homestead, and thus the child was employed almost from infancy as a shepherdess.;scrofula;['scrofula', 'tuberculous adenitis'];scrofula;100.0
+wiki_partially;2977;"Of her, the Catholic Encyclopedia writes: ""From her birth she seemed marked out for suffering; she came into the world with a deformed hand and the disease of scrofula, and, while yet an infant, lost her mother.";scrofula;['scrofula', 'tuberculous adenitis'];scrofula;100.0
+wiki_partially;2987;"Euphoria (/ juːˈfɔəriə /; from Ancient Greek εὐφορία, from εὖ eu, ""well"", and φέρω pherō, ""to bear"") (semantically opposite of dysphoria) is medically recognized as a mental and emotional condition in which a person experiences intense feelings of well-being, elation, happiness, excitement, and joy.";dysphoria;['dysphoria'];dysphoria;100.0
+wiki_partially;3048;Poliovirus can affect the spinal cord and cause poliomyelitis.;poliomyelitis;['polio', 'polioencephalitis'];polio;71.0
+wiki_partially;3052;In turn, it is part of the even broader group of diseases affecting the blood, bone marrow, and lymphoid system, which are all known as hematological neoplasms.;neoplasms;['tumor'];tumor;15.0
+wiki_partially;3077;Some studies conclude that color blind people are better at penetrating certain color camouflages.;color;[];;
+wiki_partially;3100;Genocide scholars such as Gregory Stanton have postulated that conditions and acts that often occur before, during, and after genocide-such as dehumanization of victim groups, strong organization of genocidal groups, and denial of genocide by its perpetrators-can be identified and actions taken to stop genocides before they happen.;genocides;[];;
+wiki_partially;3116;"In the early 1980s she had a public row with her former friend Allen Ginsberg over his support for child pornography and pedophilia, in which Ginsberg said, ""The right wants to put me in jail,"" and Dworkin responded, ""Yes, they're very sentimental; I'd kill you.""";pedophilia;['pedophilia'];pedophilia;100.0
+wiki_partially;3147;The two vaccines have eradicated polio from most countries in the world, and reduced the worldwide incidence from an estimated 350,000 cases in 1988 to just 223 cases in 2012.;polio;['polio', 'polioencephalitis'];polio;100.0
+wiki_auto;17;There may also be listlessness or muscle stiffness (hypertonia).;hypertonia;['hypertonia'];hypertonia;100.0
+wiki_auto;19;MERS-CoV is a betacoronavirus derived from bats.;MERS-CoV;[];;
+wiki_auto;35;Differentiation means how different the cancer cells are from normal cells.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_auto;38;Type 1 (I) is keratinizing squamous cell carcinoma.;carcinoma;['carcinoma', 'spindle cell carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];carcinoma;100.0
+wiki_auto;63;The rash generally goes away on its own in about a week.;rash;['rash'];rash;100.0
+wiki_auto;66;People with DSPD generally fall asleep some hours after midnight and have difficulty waking up in the morning.;DSPD;[];;
+wiki_auto;70;As of 2011, 235–330 million people worldwide are affected by asthma, and approximately 250,000–345,000 people die per year from the disease.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_auto;72;Rates of asthma have plateaued in the developed world since the mid-1990s with recent increases primarily in the developing world.;asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_auto;73;Asthma affects approximately 7% of the population of the United States and 5% of people in the United Kingdom.;Asthma;['asthma', 'bronchitic asthma'];asthma;100.0
+wiki_auto;176;Because of the lack of more obvious symptoms, when females under the age of two or uncircumcised males less than a year exhibit a fever, a culture of the urine is recommended by many medical associations.;fever;['fever', 'hyperthermic', 'feverish', 'fever symptoms'];fever;100.0
+wiki_auto;318;In fact, most traveler's diarrhea is bacterial or viral in origin.;diarrhea;['diarrhea', 'diarrhea symptoms'];diarrhea;100.0
+wiki_auto;331;The hallmark sign of POTS is a measured increase in heart rate by at least 30 beats per minute within 10 minutes of assuming an upright position.;POTS;[];;
+wiki_auto;332;Most people with POTS are aged between 20 and 40, with an average onset of 30.;POTS;[];;
+wiki_auto;339;Bronchospasms are a serious potential complication of placing a breathing tube during general anesthesia.;Bronchospasms;['bronchospasm'];bronchospasm;100.0
+wiki_auto;342;About one-third of unintentional weight loss cases are secondary to malignancy.;malignancy;['cancer', 'primary cancer'];cancer;33.0
+wiki_auto;348;Certain aspects of personality are associated with being obese.;obese;['obesity'];obesity;100.0
+wiki_auto;406;In adults, a fever is generally not present but it is common in infants and young children.;fever;['fever', 'hyperthermic', 'feverish', 'fever symptoms'];fever;100.0
+wiki_auto;435;In young children when it affects the trachea it may produce the symptoms of croup due to the small size of their airways.;croup;['croup'];croup;100.0
+wiki_auto;501;Risk factors include poverty, malnutrition, deforestation, and urbanization.;malnutrition;['malnutrition', 'undernutrition'];malnutrition;100.0
+wiki_auto;504;The treatment needed is determined by where the disease is acquired, the species of Leishmania, and the type of infection.;Leishmania;[];;
+wiki_auto;518;Risk factors include poverty, malnutrition, deforestation, lack of sanitation and urbanization.;malnutrition;['malnutrition', 'undernutrition'];malnutrition;100.0
+wiki_auto;520;The treatment is determined by where the disease is acquired, the species of Leishmania, and the type of infection.;Leishmania;[];;
+wiki_auto;524;D) The occurrence of antisocial behavior is not exclusively during the course of schizophrenia or a manic episode.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;596;Most symptoms of cinchonism (except in severe cases) are reversible and disappear once quinine is withdrawn.;cinchonism;[];;
+wiki_auto;609;Among women with endometriosis about 40% are infertile.;endometriosis;['endometriosis', 'endometrioma'];endometriosis;100.0
+wiki_auto;631;It is a member of an emerging class of diseases called ciliopathies.;ciliopathies;[];;
+wiki_auto;713;"Many DJ equipment manufacturers offer different mixers for different purposes, with different fader styles, e.g., ""scratching"", beatmixing, and cut mixing.";DJ;[];;
+wiki_auto;734;Malaria has several serious complications.;Malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_auto;736;He isolated malaria parasites from the salivary glands of mosquitoes that had fed on infected birds.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_auto;738;After resigning from the Indian Medical Service, Ross worked at the newly established Liverpool School of Tropical Medicine and directed malaria-control efforts in Egypt, Panama, Greece and Mauritius.;malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_auto;744;The indigenous peoples of Peru made a tincture of cinchona to control fever.;fever;['fever', 'hyperthermic', 'feverish', 'fever symptoms'];fever;100.0
+wiki_auto;748;"According to Joseph Patrick Byrne, ""Sixty thousand American soldiers died of malaria during the African and South Pacific campaigns.";malaria;['malaria', 'malarial fever'];malaria;100.0
+wiki_auto;751;The symptoms of scabies are due to an allergic reaction to the mites.;scabies;['scabies'];scabies;100.0
+wiki_auto;757;Individuals with WPW have an accessory pathway that communicates between the atria and the ventricles, in addition to the AV node.;WPW;['wpw'];wpw;100.0
+wiki_auto;759;Epilepsy is more common in older people.;Epilepsy;['epilepsy', 'aura'];epilepsy;100.0
+wiki_auto;763;Diagnosis of epilepsy can be difficult.;epilepsy;['epilepsy', 'aura'];epilepsy;100.0
+wiki_auto;765;Paranoia is an instinct or thought process believed to be heavily influenced by anxiety or fear, often to the point of delusion and irrationality.;Paranoia;[];;
+wiki_auto;769;Cryptorchidism is the absence of one or both testes from the scrotum.;Cryptorchidism;['cryptorchidism'];cryptorchidism;100.0
+wiki_auto;804;A collection of pus is called an abscess, not a cyst.;abscess;['abscess'];abscess;100.0
+wiki_auto;806;When a cyst fails to resolve, it may need to be removed surgically, but that would depend upon its type and location.;cyst;['cyst'];cyst;100.0
+wiki_auto;862;Cholera is mainly a risk in developing countries.;Cholera;['cholera'];cholera;100.0
+wiki_auto;864;Hands that touch cholera patients or their clothing, bedding, etc., should be thoroughly cleaned and disinfected with chlorinated water or other effective antimicrobial agents.;cholera;['cholera'];cholera;100.0
+wiki_auto;865;Sources: Warnings about possible cholera contamination should be posted around contaminated water sources with directions on how to decontaminate the water (boiling, chlorination etc.);cholera;['cholera'];cholera;100.0
+wiki_auto;870;Between 1900 and 1920, perhaps eight million people died of cholera in India.;cholera;['cholera'];cholera;100.0
+wiki_auto;876;The center may break open and form an ulcer.;ulcer;['ulcer'];ulcer;100.0
+wiki_auto;887;In the 1950s and 1960s the World Health Organization (WHO) nearly eradicated yaws.;yaws;['yaws'];yaws;100.0
+wiki_auto;899;The cause for most cases of leukemia is unknown.;leukemia;['leukemia', 'all types of leukemia'];leukemia;100.0
+wiki_auto;900;The different leukemias likely have different causes.;leukemias;['leukemia', 'all types of leukemia'];leukemia;100.0
+wiki_auto;901;Most forms of leukemia are treated with pharmaceutical medication, typically combined into a multi-drug chemotherapy regimen.;leukemia;['leukemia', 'all types of leukemia'];leukemia;100.0
+wiki_auto;903;In 2000, approximately 256,000 children and adults around the world developed a form of leukemia, and 209,000 died from it.;leukemia;['leukemia', 'all types of leukemia'];leukemia;100.0
+wiki_auto;917;This can lead to reduced glomerular blood flow, leading to reduced urine output (oliguria) and retention of waste products (uremia).;uremia;['uremia', 'azotemia'];uremia;100.0
+wiki_auto;1000;"Reprinted in Arthur L. Caplan, James J. McCartney, Dominic A. Sisti, eds, Health, Disease, and Illness: Concepts in Medicine (Washington, D.C.: Georgetown University Press, 2004) ISBN 1-58901-014-0 An Early History – African American Mental Health"" Drapetomania: A Disease Called Freedom"" exhibit";Drapetomania;[];;
+wiki_auto;1005;Almost all human cases of rabies were fatal until a vaccine was developed in 1885 by Louis Pasteur and Émile Roux.;rabies;['rabies'];rabies;100.0
+wiki_auto;1018;Over time, the affected blood vessels become stiffer and thicker, in a process known as fibrosis.;fibrosis;['fibrosis'];fibrosis;100.0
+wiki_auto;1113;Smoking and alcoholism are other risk factor.;alcoholism;['alcoholism', 'alcoholism/alcohol abuse', 'chronic alcohol abuse', 'drinking problem', 'alcohol use disorder'];alcoholism;100.0
+wiki_auto;1134;Sleepwalkers often have little or no memory of the incident, as their consciousness has altered into a state in which it is harder to recall memories.;Sleepwalkers;['sleepwalking'];sleepwalking;100.0
+wiki_auto;1136;Often, individuals have had one or more major depressive episodes.;depressive;['neurosis'];neurosis;43.0
+wiki_auto;1174;Nausea is an unpleasant, diffuse sensation of unease and discomfort, often perceived as an urge to vomit.;Nausea;['nausea'];nausea;100.0
+wiki_auto;1293;The condition usually results from infection, injury (accident, surgery), hypoperfusion and hypermetabolism.;hypoperfusion;['hypoperfusion', 'respiratory distress syndrome'];hypoperfusion;100.0
+wiki_auto;1310;The Dutch professor Francois de la Boe Sylvius, a follower of Descartes, believed that all disease was the outcome of chemical processes and that acidic lymph fluid was the cause of cancer.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_auto;1333;Croup is typically diagnosed based on signs and symptoms.;Croup;['croup'];croup;100.0
+wiki_auto;1337;The most commonly used system for classifying the severity of croup is the Westley score.;croup;['croup'];croup;100.0
+wiki_auto;1338;It is the sum of points assigned for five factors: level of consciousness, cyanosis, stridor, air entry, and retractions.;cyanosis;['cyanosis'];cyanosis;100.0
+wiki_auto;1344;A total score of 6–11 is severe croup.;croup;['croup'];croup;100.0
+wiki_auto;1347;"The barking cough and stridor may no longer be prominent at this stage.85% of children presenting to the emergency department have mild disease; severe croup is rare (< 1%).";croup;['croup'];croup;100.0
+wiki_auto;1349;Children with croup are generally kept as calm as possible.;croup;['croup'];croup;100.0
+wiki_auto;1399;Neuroblastoma can also develop anywhere along the sympathetic nervous system chain from the neck to the pelvis.;Neuroblastoma;['neuroblastoma', 'central neuroblastoma'];neuroblastoma;100.0
+wiki_auto;1405;Emergency medicine physicians have training to deal with most medical emergencies, and maintain CPR and Advanced Cardiac Life Support (ACLS) certifications.;Emergency;[];;
+wiki_auto;1406;Possible exceptions include the clamping of arteries in severe hemorrhage.;hemorrhage;['bleeding'];bleeding;14.0
+wiki_auto;1435;Although any joint can experience a sprain, some of the more common include: The ankle.;sprain;['sprain', 'sprains strains', 'muscle pull or tear'];sprain;100.0
+wiki_auto;1437;One of the more talked about sprains is that to the anterior cruciate ligament (ACL) of the knee.;sprains;['sprain', 'sprains strains', 'muscle pull or tear'];sprain;100.0
+wiki_auto;1438;This is a disabling sprain common to athletes, especially in American football, football (soccer), basketball, pole vaulting, softball, baseball and some styles of martial arts.;sprain;['sprain', 'sprains strains', 'muscle pull or tear'];sprain;100.0
+wiki_auto;1495;Paralysis is a loss of muscle function for one or more muscles.;Paralysis;"['paralysis', ""todd's paralysis""]";paralysis;100.0
+wiki_auto;1496;Paralysis is most often caused by damage in the nervous system, especially the spinal cord.;Paralysis;"['paralysis', ""todd's paralysis""]";paralysis;100.0
+wiki_auto;1511;Astigmatism may be corrected with eyeglasses, contact lenses, or refractive surgery.;Astigmatism;['astigmatism'];astigmatism;100.0
+wiki_auto;1512;It has been described in terms of the analogy to an iceberg, with the immediately visible and audible symptoms of stuttering above the waterline and a broader set of symptoms such as negative emotions hidden below the surface.;stuttering;['stuttering', 'stammering', 'adult stuttering'];stuttering;100.0
+wiki_auto;1545;Stroke: Pathophysiology, Diagnosis, and Management.;Stroke;['stroke', 'acute stroke'];stroke;100.0
+wiki_auto;1565;"Hypertrophy (, from Greek ὑπέρ ""excess"" + τροφή ""nourishment"") is the increase in the volume of an organ or tissue due to the enlargement of its component cells.";Hypertrophy;['enlargement'];enlargement;24.0
+wiki_auto;1592;For Pontiac fever the time between exposure and symptoms is generally a few hours to two days.;fever;['fever', 'hyperthermic', 'feverish', 'fever symptoms'];fever;100.0
+wiki_auto;1626;Cellulitis is caused by a type of bacteria entering the skin, usually by way of a cut, abrasion, or break in the skin.;Cellulitis;['cellulitis', 'cellulite', 'phlegmon'];cellulitis;100.0
+wiki_auto;1674;The World Health Organization estimates that as of 2010 there are 208 million people with alcoholism worldwide (4.1% of the population over 15 years of age).;alcoholism;['alcoholism', 'alcoholism/alcohol abuse', 'chronic alcohol abuse', 'drinking problem', 'alcohol use disorder'];alcoholism;100.0
+wiki_auto;1684;"Appendicitis is most common between the ages of 5 and 40; the median age is 28.";Appendicitis;['appendicitis'];appendicitis;100.0
+wiki_auto;1686;Fistulas are usually caused by injury or surgery, but they can also result from an infection or inflammation.;Fistulas;['fistula'];fistula;100.0
+wiki_auto;1687;Fistulas are generally a disease condition, but they may be surgically created for therapeutic reasons.;Fistulas;['fistula'];fistula;100.0
+wiki_auto;1751;"Data mining is the analysis step of the ""knowledge discovery in databases"" process, or KDD.";KDD;[];;
+wiki_auto;1756;In Australia any stillborn weighing more than 400 grams, or more than 20 weeks in gestation, must have its birth registered.;stillborn;['stillbirth', 'stillborn'];stillbirth;74.0
+wiki_auto;1759;It is estimated that 200 million people have osteoporosis.;osteoporosis;['osteoporosis'];osteoporosis;100.0
+wiki_auto;1762;It has been described as a tauopathy.;tauopathy;['tauopathy'];tauopathy;100.0
+wiki_auto;1770;Warts are caused by a virus, and toads do not harbor it.;Warts;['wart'];wart;100.0
+wiki_auto;1813;Corbett's electrostatic machine The Rheumatology Handbook (WSPC 2012) ISBN 978-1-84816-320-1 American College of Rheumatology EULAR -- The European League Against Rheumatism Cloudy with a Chance of Pain -- A smartphone-based study.;Rheumatism;['rheumatism', 'collagen disease'];rheumatism;100.0
+wiki_auto;1850;RAD arises from a failure to form normal attachments to primary caregivers in early childhood.;RAD;[];;
+wiki_auto;1860;Surgery is the most common treatment for cancer of the urethra.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_auto;1900;Irritation of the nerve endings in injured peripheral tissue or organs also contributes significantly to blast-induced neurotrauma.;neurotrauma;[];;
+wiki_auto;1909;Emotional support may help with negative emotions.Miscarriage is the most common complication of early pregnancy.;Miscarriage;['miscarriage'];miscarriage;100.0
+wiki_auto;1910;Bleeding during pregnancy may be referred to as a threatened miscarriage.;miscarriage;['miscarriage'];miscarriage;100.0
+wiki_auto;1911;It does not cause first trimester miscarriages.;miscarriages;['miscarriage'];miscarriage;100.0
+wiki_auto;1914;This treatment avoids the possible side effects and complications of medications and surgery, but increases the risk of mild bleeding, need for unplanned surgical treatment, and incomplete miscarriage.;miscarriage;['miscarriage'];miscarriage;100.0
+wiki_auto;1928;The fever is usually above 39 °C (102 °F) and sometimes reaching 40 °C (104 °F) and may be biphasic—lasting several days, breaking, and then returning.;fever;['fever', 'hyperthermic', 'feverish', 'fever symptoms'];fever;100.0
+wiki_auto;2224;Unexplained bruising can also indicate internal bleeding or certain types of cancer.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_auto;2234;Electroreception is found in lampreys, cartilaginous fishes (sharks, rays, chimaeras), lungfishes, bichirs, coelacanths, sturgeons, paddlefishes, catfishes, gymnotiformes, elephantfishes, monotremes, and at least one species of cetacean.;coelacanths;[];;
+wiki_auto;2285;A common form of auditory hallucination involves hearing one or more talking voices.;hallucination;['hallucination', 'hearing voices', 'auditory hallucinations', 'hypnagogic hallucinations', 'visual hallucinations', 'gustatory hallucinations', 'hypnapompic hallucinations', 'olfactory hallucinations', 'organic hallucinosis', 'sensory hallucinations', 'tactile hallucinations'];hallucination;100.0
+wiki_auto;2296;The anatomy of hallucinations.;hallucinations;['hallucination', 'hearing voices', 'auditory hallucinations', 'hypnagogic hallucinations', 'visual hallucinations', 'gustatory hallucinations', 'hypnapompic hallucinations', 'olfactory hallucinations', 'organic hallucinosis', 'sensory hallucinations', 'tactile hallucinations'];hallucination;100.0
+wiki_auto;2299;Sensory deception: a scientific analysis of hallucination.;hallucination;['hallucination', 'hearing voices', 'auditory hallucinations', 'hypnagogic hallucinations', 'visual hallucinations', 'gustatory hallucinations', 'hypnapompic hallucinations', 'olfactory hallucinations', 'organic hallucinosis', 'sensory hallucinations', 'tactile hallucinations'];hallucination;100.0
+wiki_auto;2354;"The term cataplexy originates from the Greek κατά (kata, meaning ""down""), and πλῆξις (plēxis, meaning ""stroke"").";cataplexy;['cataplexy'];cataplexy;100.0
+wiki_auto;2428;Also, in the 1980s, in the United States, some federal legislation was introduced on homelessness as a result of the work of Congressman Stewart B. McKinney.;homelessness;['homeless'];homeless;100.0
+wiki_auto;2433;Homelessness portal Homelessness in Canada Housing inequality Internally displaced person National Alliance to End Homelessness Poverty Extreme poverty Right to housing Aporophobia Homeless of New York -- Article + Video – The Uncommon Magazine, by Avery Kim, 6 July 2016 Homeless Statistics for Australia, Canada, United Kingdom and the United States, all data from around the year 2001.;Aporophobia;[];;
+wiki_auto;2439;Homelessness in Europe FEANTSA is the European Federation of National Organisations Working with the Homeless is an umbrella of not-for-profit organizations which participate in or contribute to the fight against homelessness in Europe.;homelessness;['homeless'];homeless;100.0
+wiki_auto;2470;These types of large hemorrhages tend to happen more than once, often during sleep.;hemorrhages;['bleeding'];bleeding;14.0
+wiki_auto;2522;The largest risk factors for spontaneous bleeding are high blood pressure and amyloidosis.;amyloidosis;['amyloidosis'];amyloidosis;100.0
+wiki_auto;2638;According to C. George Boeree, professor emeritus at Shippensburg University, the symptoms of neurosis may involve:... anxiety, sadness or depression, anger, irritability, mental confusion, low sense of self-worth, etc., behavioral symptoms such as phobic avoidance, vigilance, impulsive and compulsive acts, lethargy, etc., cognitive problems such as unpleasant or disturbing thoughts, repetition of thoughts and obsession, habitual fantasizing, negativity and cynicism, etc.;neurosis;['neurosis'];neurosis;100.0
+wiki_auto;2639;Interpersonally, neurosis involves dependency, aggressiveness, perfectionism, schizoid isolation, socio-culturally inappropriate behaviors, etc.;neurosis;['neurosis'];neurosis;100.0
+wiki_auto;2641;Early diagnosis is critical for the successful treatment of schizophrenia.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;2642;Many people who take them exhibit weight gain and have a higher risk of developing diabetes.;diabetes;['diabetes'];diabetes;100.0
+wiki_auto;2797;Hypothyroidism is more common in women than men.;Hypothyroidism;['hypothyroidism', 'secondary hypothyroidism', 'central hypothyroidism', 'primary hypothyroidism'];hypothyroidism;100.0
+wiki_auto;2813;The formation of freckles is caused by exposure to sunlight.;freckles;['freckle', 'melasma', 'melanosis'];freckle;100.0
+wiki_auto;2814;Freckles are predominantly found on the face, although they may appear on any skin exposed to the sun, such as arms or shoulders.;Freckles;['freckle', 'melasma', 'melanosis'];freckle;100.0
+wiki_auto;2894;The redness and itching typically occurs on cheeks, ears, fingers, and toes.;itching;['itching', 'itchy skin'];itching;100.0
+wiki_auto;2896;It was first described in 1874 by Karl Ludwig Kahlbaum, in German: Die Katatonie oder das Spannungsirresein (Catatonia or Tension Insanity).;Catatonia;['catatonia'];catatonia;100.0
+wiki_auto;2897;Steatopygia is the state of having substantial levels of tissue on the buttocks and thighs.;Steatopygia;[];;
+wiki_auto;2900;Michael York who has amyloidosis, speaks from 4:00-60:00;amyloidosis;['amyloidosis'];amyloidosis;100.0
+wiki_auto;2930;Some people may complain of mild itchiness and a burning sensation, but often, unless a change in pigmentation is seen, it can go unnoticed.;itchiness;['itching', 'itchy skin'];itching;89.0
+wiki_auto;2938;Prognostically favorable are smaller tumor size and absence or paucity of local lymph node involvement.;tumor;['tumor'];tumor;100.0
+wiki_auto;2960;There is no evidence that pedophilia can be cured.;pedophilia;['pedophilia'];pedophilia;100.0
+wiki_auto;3005;It is encoded at the same place as red-green color blindness on the X chromosome.;color;[];;
+wiki_auto;3014;Besides simple perception, akinetopsia also disturbs visuomotor tasks, such as reaching for objects and catching objects.;akinetopsia;[];;
+wiki_auto;3016;Inconspicuous akinetopsia can be selectively and temporarily induced using transcranial magnetic stimulation (TMS) of area V5 of the visual cortex in healthy subjects.;akinetopsia;[];;
+wiki_auto;3022;Silent strokes typically cause lesions which are detected via the use of neuroimaging such as MRI.;strokes;['stroke', 'acute stroke'];stroke;100.0
+wiki_auto;3053;This has seen a large amount of success in the rehabilitation of paraplegic patients.;paraplegic;['paraplegic', 'spastic paraplegia', 'paraplegia', 'paralysis of lower limb'];paraplegic;100.0
+wiki_auto;3064;Approximately half are stillborn, and an additional one-third die within 24 hours.;stillborn;['stillbirth', 'stillborn'];stillbirth;74.0
+wiki_auto;3074;Syphilis can be effectively treated with antibiotics.;Syphilis;['syphilis'];syphilis;100.0
+wiki_auto;3075;In 2015, Cuba became the first country in the world to eliminate mother-to-child transmission of syphilis.;syphilis;['syphilis'];syphilis;100.0
+wiki_auto;3084;"Syphilis is transmitted primarily by sexual contact or during pregnancy from a mother to her fetus; the spirochete is able to pass through intact mucous membranes or compromised skin.";Syphilis;['syphilis'];syphilis;100.0
+wiki_auto;3085;Approximately 30% to 60% of those exposed to primary or secondary syphilis will get the disease.;syphilis;['syphilis'];syphilis;100.0
+wiki_auto;3098;In 2015, Cuba became the first country in the world to eradicate mother to child transmission of syphilis.;syphilis;['syphilis'];syphilis;100.0
+wiki_auto;3190;A combination of genetic and environmental factors play a role in the development of schizophrenia.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;3196;Attempting to prevent schizophrenia in the prodrome phase is of uncertain benefit and therefore as of 2009 is not recommended.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;3197;The primary treatment of schizophrenia is antipsychotic medications, often in combination with psychological and social supports.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;3201;A number of psychosocial interventions may be useful in the treatment of schizophrenia including: family therapy, assertive community treatment, supported employment, cognitive remediation, skills training, token economic interventions, and psychosocial interventions for substance use and weight management.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;3203;Schizophrenia has great human and economic costs.;Schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;3204;This is primarily because of its association with obesity, poor diet, sedentary lifestyles, and smoking, with an increased rate of suicide playing a lesser role.;obesity;['obesity'];obesity;100.0
+wiki_auto;3206;Approximately three-fourths of people with schizophrenia have ongoing disability with relapses and 16.7 million people globally are deemed to have moderate or severe disability from the condition.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;3208;Most people with schizophrenia live independently with community support.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;3211;Use of cigarettes is especially high in individuals diagnosed with schizophrenia, with estimates ranging from 80 to 90% being regular smokers, as compared to 20% of the general population.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;3213;Among people with schizophrenia use of cannabis is also common.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;3214;Schizophrenia affects around 0.3–0.7% of people at some point in their life, or 24 million people worldwide as of 2011.;Schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;3215;Onset in childhood is much rarer, as is onset in middle or old age.Despite the prior belief that schizophrenia occurs at similar rates worldwide, its frequency varies across the world, within countries, and at the local and neighborhood level.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;3217;About 1.1% of adults have schizophrenia in the United States.;schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;3221;"David Rosenhan's 1972 study, published in the journal Science under the title ""On being sane in insane places"", concluded that the diagnosis of schizophrenia in the US was often subjective and unreliable.";schizophrenia;['schizophrenia'];schizophrenia;100.0
+wiki_auto;3231;Those born with progeria typically live to their mid-teens to early twenties.;progeria;['progeria'];progeria;100.0
+wiki_auto;3232;Progeria was first described in 1886 by Jonathan Hutchinson.;Progeria;['progeria'];progeria;100.0
+wiki_auto;3237;Scientists are interested in progeria partly because it might reveal clues about the normal process of aging.;progeria;['progeria'];progeria;100.0
+wiki_auto;3242;The mediating factors of violent acts, however, are most consistently found to be mainly socio-demographic and socio-economic factors such as being young, male, of lower socioeconomic status and, in particular, substance abuse (including alcoholism) to which some people may be particularly vulnerable.High-profile cases have led to fears that serious crimes, such as homicide, have increased due to deinstitutionalization, but the evidence does not support this conclusion.;alcoholism;['alcoholism', 'alcoholism/alcohol abuse', 'chronic alcohol abuse', 'drinking problem', 'alcohol use disorder'];alcoholism;100.0
+wiki_auto;3251;Most people with bulimia are at a normal weight.;bulimia;['bulimia'];bulimia;100.0
+wiki_auto;3284;There are seven major genotypes of HCV, which are known as genotypes one to seven.;HCV;[];;
+wiki_auto;3287;"It is believed that ten million intravenous drug users are infected with hepatitis C; China (1.6 million), the United States (1.5 million), and Russia (1.3 million) have the highest absolute totals.";hepatitis;['hepatitis', 'hepatitis a', 'infectious hepatitis', 'hepatitis viral', 'liver disease', 'abnormal liver function', 'liver dysfunction'];hepatitis;100.0
+wiki_auto;3290;"There is no evidence that breastfeeding spreads HCV; however, to be cautious, an infected mother is advised to avoid breastfeeding if her nipples are cracked and bleeding, or if her viral loads are high.";HCV;[];;
+wiki_auto;3300;Adverse effects with these treatments were common, with half of people getting flu-like symptoms and a third experiencing emotional problems.;flu;['flu'];flu;100.0
+wiki_auto;3313;It is believed that the high prevalence in Egypt is linked to a now-discontinued mass-treatment campaign for schistosomiasis, using improperly sterilized glass syringes.;schistosomiasis;['schistosomiasis'];schistosomiasis;100.0
+wiki_auto;3316;Despite this discovery, international research efforts to identify the virus, initially called non-A, non-B hepatitis (NANBH), failed for the next decade.;hepatitis;['hepatitis', 'hepatitis a', 'infectious hepatitis', 'hepatitis viral', 'liver disease', 'abnormal liver function', 'liver dysfunction'];hepatitis;100.0
+wiki_auto;3319;In April 1989, the discovery of HCV was published in two articles in the journal Science.;HCV;[];;
+wiki_auto;3359;the spleen and lymph nodes) where they survey for invading pathogens and/or tumor cells.;tumor;['tumor'];tumor;100.0
+wiki_auto;3363;A low normal to low absolute lymphocyte concentration is associated with increased rates of infection after surgery or trauma.;trauma;['trauma', 'injury from an external force', 'injuries wounds', 'physical wound'];trauma;100.0
+wiki_auto;3414;Spontaneous abortion, also known as miscarriage, is the unintentional expulsion of an embryo or fetus before the 24th week of gestation.;miscarriage;['miscarriage'];miscarriage;100.0
+wiki_auto;3439;Positive family history is a risk factor for glaucoma.;glaucoma;['glaucoma'];glaucoma;100.0
+wiki_auto;3440;is increased about two-- to four-fold for people who have a sibling with glaucoma.;glaucoma;['glaucoma'];glaucoma;100.0
+wiki_auto;3473;For a time, Martha's Vineyard was identified as the only place in the world where documented cases of tularemia resulted from lawn mowing.;tularemia;['tularemia'];tularemia;100.0
+wiki_auto;3493;Hallucinations can be caused by a number of factors.;Hallucinations;['hallucination', 'hearing voices', 'auditory hallucinations', 'hypnagogic hallucinations', 'visual hallucinations', 'gustatory hallucinations', 'hypnapompic hallucinations', 'olfactory hallucinations', 'organic hallucinosis', 'sensory hallucinations', 'tactile hallucinations'];hallucination;100.0
+wiki_auto;3571;"Pain creates a withdrawal reflex, whereas itch leads to a scratch reflex.Unmyelinated nerve fibers for itch and pain both originate in the skin; however, information for them is conveyed centrally in two distinct systems that both use the same nerve bundle and spinothalamic tract.";pain;['pain', 'burning pain', 'ache', 'radiating pain'];pain;100.0
+wiki_auto;3574;A variety of over-the-counter and prescription anti-itch drugs are available.;itch;['itching', 'itchy skin'];itching;100.0
+wiki_auto;3582;An abscess is a collection of pus that has built up within the tissue of the body.;abscess;['abscess'];abscess;100.0
+wiki_auto;3583;Signs and symptoms of abscesses include redness, pain, warmth, and swelling.;abscesses;['abscess'];abscess;100.0
+wiki_auto;3585;Carbuncles and boils are types of abscess that often involve hair follicles, with carbuncles being larger.They are usually caused by a bacterial infection.;abscess;['abscess'];abscess;100.0
+wiki_auto;3596;In 2005 in the United States, 3.2 million people went to the emergency department for an abscess.;abscess;['abscess'];abscess;100.0
+wiki_auto;3600;This is a wave-like motion that is caused by movement of the pus inside the abscess.;abscess;['abscess'];abscess;100.0
+wiki_auto;3601;Abscesses are caused by bacterial infection, parasites, or foreign substances.;Abscesses;['abscess'];abscess;100.0
+wiki_auto;3610;In 2005 in the United States 3.2 million people went to the emergency department for an abscess.;abscess;['abscess'];abscess;100.0
+wiki_auto;3620;Chlamydia can be transmitted during vaginal, anal, or oral sex or direct contact with infected tissue such as conjunctiva.;Chlamydia;[];;
+wiki_auto;3637;Serologic tests detect antibodies directed against the Epstein–Barr virus.;Epstein–Barr;[];;
+wiki_auto;3645;Women are twice as likely to suffer from specific phobias as men.;phobias;['phobia', 'claustrophobia', 'school phobia'];phobia;100.0
+wiki_auto;3752;When the cancer has extended beyond the uterine tissue, more advanced treatments including combinations of chemotherapy, radiation therapy, or surgery may be required.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_auto;3795;Some cancer cells also have abnormal numbers of chromosomes.;cancer;['cancer', 'primary cancer', 'spindle cell carcinoma', 'carcinoma', 'anaplastic carcinoma', 'carcinomatosis', 'sarcomatoid carcinoma', 'undifferentiated carcinoma'];cancer;100.0
+wiki_auto;3796;Aneuploidy originates during cell division when the chromosomes do not separate properly between the two cells.;Aneuploidy;['aneuploidy'];aneuploidy;100.0

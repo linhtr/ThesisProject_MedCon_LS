@@ -1,0 +1,101 @@
+origin,sent_id,method,original_sentence,simplified_sentence
+wiki_auto,3064,CHV,"Approximately half are [stillborn], and an additional one-third die within 24 hours.","Approximately half are [stillbirth], and an additional one-third die within 24 hours."
+House,35422,MLM,"Because she took such an interest, she discovered a tiny nodule... which in reality signified nothing but gave us no choice... but to put a person with [tendinitis] through an expensive and painful test.","Because she took such an interest, she discovered a tiny nodule... which in reality signified nothing but gave us no choice... but to put a person with [pain] through an expensive and painful test."
+House,168230,CHV,[Opacity] in the left temporal lobe.,[opaque] in the left temporal lobe.
+House,27260,CHV,Maybe it's [shigellosis].,Maybe it's [shigella].
+House,168230,MLM,[Opacity] in the left temporal lobe.,[Blood] in the left temporal lobe.
+House,35422,CHV,"Because she took such an interest, she discovered a tiny nodule... which in reality signified nothing but gave us no choice... but to put a person with [tendinitis] through an expensive and painful test.","Because she took such an interest, she discovered a tiny nodule... which in reality signified nothing but gave us no choice... but to put a person with [tendonitis] through an expensive and painful test."
+House,78797,CHV,To Reduce The [Encephalocele] Cyst,To Reduce The [cranioschisis] Cyst
+House,143608,MLM,"So unless he's dead, [comatose],","So unless he's dead, [coma],"
+wiki_partially,1105,CHV,Symptoms of [influenza] can start quite suddenly one to two days after infection.,Symptoms of [flu] can start quite suddenly one to two days after infection.
+House,161152,CHV,Recent developed loud-noise-induced [vertigo].,Recent developed loud-noise-induced [dizziness].
+wiki_auto,3064,MLM,"Approximately half are [stillborn], and an additional one-third die within 24 hours.","Approximately half are [dead], and an additional one-third die within 24 hours."
+wiki_partially,120,CHV,"However, most studies have found no evidence of impairment in [autistic] individuals' ability to understand other people's basic intentions or goals; instead, data suggests that impairments are found in understanding more complex social emotions or in considering others' viewpoints.","However, most studies have found no evidence of impairment in [autism] individuals' ability to understand other people's basic intentions or goals; instead, data suggests that impairments are found in understanding more complex social emotions or in considering others' viewpoints."
+wiki_partially,2511,CHV,"When occurring, auras allow [epileptics] time to prevent injury to themselves and/or others.","When occurring, auras allow [epilepsy] time to prevent injury to themselves and/or others."
+wiki_partially,2156,MLM,Blond hair is the result of having little [pigmentation] in the hair strand.,Blond hair is the result of having little [skin] in the hair strand.
+wiki_partially,877,MLM,There are three types of [vertigo].,There are three types of [depression].
+House,143608,CHV,"So unless he's dead, [comatose],","So unless he's dead, [coma],"
+wiki_fully,299,MLM,"[Hypertrophy] (from Greek ὑπέρ ""excess"" + τροφή ""nourishment"") is the increase in the volume of an organ or tissue due to the enlargement of its component cells.","[inflammation] (from Greek ὑπέρ ""excess"" + τροφή ""nourishment"") is the increase in the volume of an organ or tissue due to the enlargement of its component cells."
+House,101821,CHV,Could a leaky space heater cause [vision] problems,Could a leaky space heater cause [hemeralopia] problems
+wiki_partially,1382,MLM,"Dilation and curettage (D&C), the second most common method of surgical abortion, is a standard gynecological procedure performed for a variety of reasons, including examination of the uterine lining for possible [malignancy], investigation of abnormal bleeding, and abortion.","Dilation and curettage (D&C), the second most common method of surgical abortion, is a standard gynecological procedure performed for a variety of reasons, including examination of the uterine lining for possible [cancer], investigation of abnormal bleeding, and abortion."
+wiki_partially,860,CHV,"In March 1918, some of the first recorded American cases of what came to be the worldwide [influenza] epidemic, also known as ""Spanish Flu"", were reported at Camp Funston.","In March 1918, some of the first recorded American cases of what came to be the worldwide [flu] epidemic, also known as ""Spanish Flu"", were reported at Camp Funston."
+House,43907,MLM,Could be [listeria].,Could be [infection].
+House,97457,CHV,Certainly sounds like a [psych] case.,Certainly sounds like a [psychological] case.
+wiki_partially,675,MLM,High doses may lead to [convulsions].,High doses may lead to [seizure].
+wiki_partially,748,CHV,"However, Albert Victor died six weeks later, in the worldwide [influenza] pandemic that swept through Britain in the winter of 1891-2.","However, Albert Victor died six weeks later, in the worldwide [flu] pandemic that swept through Britain in the winter of 1891-2."
+wiki_partially,3052,MLM,"In turn, it is part of the even broader group of diseases affecting the blood, bone marrow, and lymphoid system, which are all known as hematological [neoplasms].","In turn, it is part of the even broader group of diseases affecting the blood, bone marrow, and lymphoid system, which are all known as hematological [tumors]."
+wiki_partially,1111,CHV,"[Influenza] spreads around the world in seasonal epidemics, resulting in about three to five million yearly cases of severe illness and about 250,000 to 500,000 yearly deaths, rising to millions in some pandemic years.","[flu] spreads around the world in seasonal epidemics, resulting in about three to five million yearly cases of severe illness and about 250,000 to 500,000 yearly deaths, rising to millions in some pandemic years."
+wiki_fully,1286,CHV,"If the body is unable to maintain a normal temperature and it increases significantly above normal, a condition known as [hyperthermia] occurs.","If the body is unable to maintain a normal temperature and it increases significantly above normal, a condition known as [fever] occurs."
+wiki_partially,3048,MLM,Poliovirus can affect the spinal cord and cause [poliomyelitis].,Poliovirus can affect the spinal cord and cause [pneumonia].
+wiki_partially,675,CHV,High doses may lead to [convulsions].,High doses may lead to [seizure].
+House,27880,MLM,"The kid was just taking his [AP] calculus exam, when all of a sudden, he got nauseous and disoriented.","The kid was just taking his [initial] calculus exam, when all of a sudden, he got nauseous and disoriented."
+House,176664,MLM,How long have you been [depressed]?,How long have you been [confused]?
+House,9714,MLM,A clot couldcause [mini-seizures].,A clot couldcause [bleeding].
+wiki_fully,1756,MLM,He died at the Castle of Moncalieri having suffered an attack of [apoplexy].,He died at the Castle of Moncalieri having suffered an attack of [depression].
+wiki_fully,1643,MLM,The major complications include [hemorrhage] (1-2%) and infection (3-5%).,The major complications include [bleeding] (1-2%) and infection (3-5%).
+wiki_fully,1286,MLM,"If the body is unable to maintain a normal temperature and it increases significantly above normal, a condition known as [hyperthermia] occurs.","If the body is unable to maintain a normal temperature and it increases significantly above normal, a condition known as [pneumonia] occurs."
+House,118594,CHV,We need a piece of the [ganglioma].,We need a piece of the [ganglioneuroma].
+House,195050,CHV,Made a [laceration] in the left ventricle about the size of the tip of my index finger.,Made a [tear] in the left ventricle about the size of the tip of my index finger.
+House,53039,MLM,We told you he had [haemorrhage],We told you he had [bleeding]
+wiki_partially,120,MLM,"However, most studies have found no evidence of impairment in [autistic] individuals' ability to understand other people's basic intentions or goals; instead, data suggests that impairments are found in understanding more complex social emotions or in considering others' viewpoints.","However, most studies have found no evidence of impairment in [normal] individuals' ability to understand other people's basic intentions or goals; instead, data suggests that impairments are found in understanding more complex social emotions or in considering others' viewpoints."
+House,78797,MLM,To Reduce The [Encephalocele] Cyst,To Reduce The [brain] Cyst
+House,153593,CHV,"Malaria is the simplest, cheapest method of delivering [hyperthermia].","Malaria is the simplest, cheapest method of delivering [fever]."
+wiki_partially,877,CHV,There are three types of [vertigo].,There are three types of [dizziness].
+House,161152,MLM,Recent developed loud-noise-induced [vertigo].,Recent developed loud-noise-induced [headache].
+wiki_fully,1643,CHV,The major complications include [hemorrhage] (1-2%) and infection (3-5%).,The major complications include [bleeding] (1-2%) and infection (3-5%).
+wiki_partially,1140,MLM,There she began suffering from severe [epileptic-shocks].,There she began suffering from severe [depression].
+House,118395,MLM,"You're gonna blow up your career, then six months from now, when you've moved on from Amber to burnt sienna, you're gonna be stuck on a mobile [oncology] truck in Pewaukee, Wisconsin.","You're gonna blow up your career, then six months from now, when you've moved on from Amber to burnt sienna, you're gonna be stuck on a mobile [cancer] truck in Pewaukee, Wisconsin."
+wiki_auto,342,MLM,About one-third of unintentional weight loss cases are secondary to [malignancy].,About one-third of unintentional weight loss cases are secondary to [cancer].
+wiki_auto,1136,MLM,"Often, individuals have had one or more major [depressive] episodes.","Often, individuals have had one or more major [anxiety] episodes."
+wiki_fully,1756,CHV,He died at the Castle of Moncalieri having suffered an attack of [apoplexy].,He died at the Castle of Moncalieri having suffered an attack of [stroke].
+wiki_partially,2511,MLM,"When occurring, auras allow [epileptics] time to prevent injury to themselves and/or others.","When occurring, auras allow [seizure] time to prevent injury to themselves and/or others."
+wiki_fully,2083,CHV,"In 1940, at the age of 51, Midgley contracted [poliomyelitis], which left him severely disabled.","In 1940, at the age of 51, Midgley contracted [polio], which left him severely disabled."
+wiki_partially,104,CHV,Four years later William died in the 1918 [influenza] pandemic.,Four years later William died in the 1918 [flu] pandemic.
+wiki_partially,1105,MLM,Symptoms of [influenza] can start quite suddenly one to two days after infection.,Symptoms of [pneumonia] can start quite suddenly one to two days after infection.
+wiki_fully,2083,MLM,"In 1940, at the age of 51, Midgley contracted [poliomyelitis], which left him severely disabled.","In 1940, at the age of 51, Midgley contracted [disease], which left him severely disabled."
+House,145282,CHV,The [oncology] department is subsidized by drug companies.,The [tumor] department is subsidized by drug companies.
+House,176664,CHV,How long have you been [depressed]?,How long have you been [sadness]?
+House,35415,MLM,She's depressed for the same reason that she has [tendinitis].,She's depressed for the same reason that she has [pain].
+House,68009,CHV,"Pre-procedure EKG was normal, no [syncope].","Pre-procedure EKG was normal, no [fainting/syncope]."
+wiki_fully,299,CHV,"[Hypertrophy] (from Greek ὑπέρ ""excess"" + τροφή ""nourishment"") is the increase in the volume of an organ or tissue due to the enlargement of its component cells.","[enlargement] (from Greek ὑπέρ ""excess"" + τροφή ""nourishment"") is the increase in the volume of an organ or tissue due to the enlargement of its component cells."
+House,145282,MLM,The [oncology] department is subsidized by drug companies.,The [surgery] department is subsidized by drug companies.
+wiki_partially,3052,CHV,"In turn, it is part of the even broader group of diseases affecting the blood, bone marrow, and lymphoid system, which are all known as hematological [neoplasms].","In turn, it is part of the even broader group of diseases affecting the blood, bone marrow, and lymphoid system, which are all known as hematological [tumor]."
+House,35415,CHV,She's depressed for the same reason that she has [tendinitis].,She's depressed for the same reason that she has [tendonitis].
+wiki_auto,342,CHV,About one-third of unintentional weight loss cases are secondary to [malignancy].,About one-third of unintentional weight loss cases are secondary to [cancer].
+House,57469,MLM,But nobody knew how to speak [autistic].,But nobody knew how to speak [language].
+wiki_partially,3048,CHV,Poliovirus can affect the spinal cord and cause [poliomyelitis].,Poliovirus can affect the spinal cord and cause [polio].
+House,53039,CHV,We told you he had [haemorrhage],We told you he had [bleeding]
+wiki_partially,1794,CHV,"One of his arms and both feet became enlarged and at some point during his childhood he fell and damaged his hip, resulting in permanent [lameness].","One of his arms and both feet became enlarged and at some point during his childhood he fell and damaged his hip, resulting in permanent [claudication]."
+House,109364,MLM,"E.D., and [insomnia].","E.D., and [anxiety]."
+House,118594,MLM,We need a piece of the [ganglioma].,We need a piece of the [tumor].
+wiki_auto,2470,CHV,"These types of large [hemorrhages] tend to happen more than once, often during sleep.","These types of large [bleeding] tend to happen more than once, often during sleep."
+House,179161,MLM,"He had [dysosmia] for a couple of months, never even came here to get it treated.","He had [diabetes] for a couple of months, never even came here to get it treated."
+wiki_auto,2470,MLM,"These types of large [hemorrhages] tend to happen more than once, often during sleep.","These types of large [bleeding] tend to happen more than once, often during sleep."
+wiki_partially,1106,CHV,"These tests may be especially useful during the [influenza] season (prevalence = 25%) but in the absence of a local outbreak, or peri-influenza season (prevalence = 10%).","These tests may be especially useful during the [flu] season (prevalence = 25%) but in the absence of a local outbreak, or peri-influenza season (prevalence = 10%)."
+wiki_partially,1140,CHV,There she began suffering from severe [epileptic-shocks].,There she began suffering from severe [epilepsy].
+House,9714,CHV,A clot couldcause [mini-seizures].,A clot couldcause [seizure].
+House,27260,MLM,Maybe it's [shigellosis].,Maybe it's [pneumonia].
+House,68009,MLM,"Pre-procedure EKG was normal, no [syncope].","Pre-procedure EKG was normal, no [murmur]."
+House,77776,CHV,"We stick another needle in him, he'll [hemorrhage].","We stick another needle in him, he'll [bleeding]."
+wiki_partially,1111,MLM,"[Influenza] spreads around the world in seasonal epidemics, resulting in about three to five million yearly cases of severe illness and about 250,000 to 500,000 yearly deaths, rising to millions in some pandemic years.","[pneumonia] spreads around the world in seasonal epidemics, resulting in about three to five million yearly cases of severe illness and about 250,000 to 500,000 yearly deaths, rising to millions in some pandemic years."
+wiki_partially,1106,MLM,"These tests may be especially useful during the [influenza] season (prevalence = 25%) but in the absence of a local outbreak, or peri-influenza season (prevalence = 10%).","These tests may be especially useful during the [virus] season (prevalence = 25%) but in the absence of a local outbreak, or peri-influenza season (prevalence = 10%)."
+wiki_partially,748,MLM,"However, Albert Victor died six weeks later, in the worldwide [influenza] pandemic that swept through Britain in the winter of 1891-2.","However, Albert Victor died six weeks later, in the worldwide [flu] pandemic that swept through Britain in the winter of 1891-2."
+wiki_partially,104,MLM,Four years later William died in the 1918 [influenza] pandemic.,Four years later William died in the 1918 [virus] pandemic.
+wiki_partially,860,MLM,"In March 1918, some of the first recorded American cases of what came to be the worldwide [influenza] epidemic, also known as ""Spanish Flu"", were reported at Camp Funston.","In March 1918, some of the first recorded American cases of what came to be the worldwide [virus] epidemic, also known as ""Spanish Flu"", were reported at Camp Funston."
+wiki_partially,1382,CHV,"Dilation and curettage (D&C), the second most common method of surgical abortion, is a standard gynecological procedure performed for a variety of reasons, including examination of the uterine lining for possible [malignancy], investigation of abnormal bleeding, and abortion.","Dilation and curettage (D&C), the second most common method of surgical abortion, is a standard gynecological procedure performed for a variety of reasons, including examination of the uterine lining for possible [cancer], investigation of abnormal bleeding, and abortion."
+House,57469,CHV,But nobody knew how to speak [autistic].,But nobody knew how to speak [autism].
+House,43907,CHV,Could be [listeria].,Could be [listeriosis].
+House,179161,CHV,"He had [dysosmia] for a couple of months, never even came here to get it treated.","He had [cacosmia] for a couple of months, never even came here to get it treated."
+House,90735,MLM,"Patient's pregnant, could be [pre-eclampsia].","Patient's pregnant, could be [normal]."
+House,97457,MLM,Certainly sounds like a [psych] case.,Certainly sounds like a [medical] case.
+House,90735,CHV,"Patient's pregnant, could be [pre-eclampsia].","Patient's pregnant, could be [preeclampsia]."
+House,118395,CHV,"You're gonna blow up your career, then six months from now, when you've moved on from Amber to burnt sienna, you're gonna be stuck on a mobile [oncology] truck in Pewaukee, Wisconsin.","You're gonna blow up your career, then six months from now, when you've moved on from Amber to burnt sienna, you're gonna be stuck on a mobile [tumor] truck in Pewaukee, Wisconsin."
+House,195050,MLM,Made a [laceration] in the left ventricle about the size of the tip of my index finger.,Made a [wound] in the left ventricle about the size of the tip of my index finger.
+House,101821,MLM,Could a leaky space heater cause [vision] problems,Could a leaky space heater cause [eye] problems
+wiki_partially,2156,CHV,Blond hair is the result of having little [pigmentation] in the hair strand.,Blond hair is the result of having little [hypopigmentation] in the hair strand.
+House,77776,MLM,"We stick another needle in him, he'll [hemorrhage].","We stick another needle in him, he'll [bleeding]."
+House,153593,MLM,"Malaria is the simplest, cheapest method of delivering [hyperthermia].","Malaria is the simplest, cheapest method of delivering [heat]."
+House,27880,CHV,"The kid was just taking his [AP] calculus exam, when all of a sudden, he got nauseous and disoriented.","The kid was just taking his [angina] calculus exam, when all of a sudden, he got nauseous and disoriented."
+wiki_partially,1794,MLM,"One of his arms and both feet became enlarged and at some point during his childhood he fell and damaged his hip, resulting in permanent [lameness].","One of his arms and both feet became enlarged and at some point during his childhood he fell and damaged his hip, resulting in permanent [weakness]."
+wiki_auto,1136,CHV,"Often, individuals have had one or more major [depressive] episodes.","Often, individuals have had one or more major [neurosis] episodes."
+House,109364,CHV,"E.D., and [insomnia].","E.D., and [sleeplessness]."
